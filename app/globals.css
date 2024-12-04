@@ -99,7 +99,9 @@ a {
 .bluebg p {
   font-size: 28px;
 }
-
+.txtblue {
+  color: #00AFEF;
+}
 .bluecard {
   background-image: url('/img/bluecard.png');
   background-position: center;
@@ -215,5 +217,9 @@ a {
   .trustedpartnerbg {
     background-color: #e1edf8;
     height: 500px;
+  }
+  .contactbg p {
+    color: #fff;
+    font-size: 16px;;
   }
 }
