@@ -7,7 +7,7 @@ const TrustefPartner = () => {
             <Container className="py-5 text-center">
                 <h1 className="py-5">Your Trusted Partner in Healthcare</h1>
                 <Image src="/img/brand-group.png" fluid alt="Brands" />
-                <Button variant="success" size="lg" className="my-5">View Equipments</Button>
+                <Button variant="success" size="lg" href="#" className="my-5">View Equipments</Button>
             </Container>
         </Container>
     );

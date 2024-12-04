@@ -4,6 +4,9 @@ import Features from "./components/Features";
 import TrustefPartner from "./components/trustedPartner";
 import AboutUs from "./components/AboutUs";
 import BlueCounter from "./components/BlueCounter";
+import Footer from "./components/Footer";
+import ClientStory from "./components/ClientStory";
+import ContactCard from "./components/ContactCard";
 
 export default function Home() {
   return (
@@ -14,6 +17,9 @@ export default function Home() {
     <TrustefPartner />
     <AboutUs />
     <BlueCounter />
+    <ClientStory />
+    <ContactCard />
+    <Footer />
     </>
   );
 }
