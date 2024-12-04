@@ -66,6 +66,9 @@ a {
 .featuresec {
   margin-top: 40px;
 }
+.featuresec h4 {
+  color: black;
+}
 .trustedpartnerbg {
   background-color: #e1edf8;
   height: 560px;
@@ -84,7 +87,9 @@ a {
 .btn-success:hover {
   background-color: #2ba16a !important;
 }
-
+.txtred {
+  color: red;
+}
 .bluebg {
   background-color: #00AFEF;
   border-radius: 8px;
@@ -103,7 +108,7 @@ a {
   border: none;
   color: #c3d1dd;
 }
-.bluecard h3, h4 {
+.bluecard h3, h4, p {
   color: #fff;
 }
 .greencard {
@@ -116,6 +121,7 @@ a {
 }
 .greencard p {
   font-size: 19px;
+  color: #fff;
 }
 .greencard h3, h4 {
   color: #fff;
@@ -148,6 +154,24 @@ a {
   list-style-type: none;
   margin-left: -30px;
   padding-bottom: 12px;
+}
+.contactbg {
+  background-image: url('/img/contactbg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  color: #fff;
+  height: 800px;
+}
+.contactbg p {
+  color: #fff;
+  font-size: 22px;;
+}
+.contactform {
+  background-color: #fff;
+  margin-top: -400px;
+  border-radius: 8px;
 }
 
 /* CSS for mobile window */
