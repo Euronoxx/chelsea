@@ -125,6 +125,10 @@ a {
   color: #898989;
   padding-top: 200px;
 }
+.footerbg a {
+  text-decoration: none;
+  color: #898989;
+}
 .footermenu {
   color: #fff;
   font-size: 16px;
@@ -180,6 +184,9 @@ a {
   }
   .featuresec {
     margin-top: 10px;
+  }
+  .bluebg {
+    margin-top: 30px;
   }
   .trustedpartnerbg {
     background-color: #e1edf8;
