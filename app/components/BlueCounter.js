@@ -7,11 +7,11 @@ const BlueCounter = () => {
             <Row>
                 <Col md={4} sm={12} xs={12}>
                     <h1>100+</h1>
-                    <p>Hospitals Served </p>
+                    <p>Hospitals Served</p>
                 </Col>
                 <Col md={4} sm={12} xs={12}>
                     <h1>8+</h1>
-                    <p>Years of Innovation </p>
+                    <p>Years of Innovation</p>
                 </Col>
                 <Col md={4} sm={12} xs={12}>
                     <h1>500+</h1>
