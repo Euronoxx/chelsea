@@ -103,7 +103,7 @@ a {
   border: none;
   color: #c3d1dd;
 }
-.bluecard h3, h4 {
+.bluecard h3, h4, p {
   color: #fff;
 }
 .greencard {
@@ -116,6 +116,7 @@ a {
 }
 .greencard p {
   font-size: 19px;
+  color: #fff;
 }
 .greencard h3, h4 {
   color: #fff;
