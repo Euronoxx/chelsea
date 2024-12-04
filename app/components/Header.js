@@ -26,10 +26,10 @@ const Header = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mx-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#link">About Us</Nav.Link>
-                        <Nav.Link href="#link">Products</Nav.Link>
-                        <Nav.Link href="#link">Contact</Nav.Link>
+                        <Nav.Link href="/">Home</Nav.Link>
+                        <Nav.Link href="/about-us">About Us</Nav.Link>
+                        <Nav.Link href="/products">Products</Nav.Link>
+                        <Nav.Link href="/contact">Contact</Nav.Link>
                     </Nav>
                     <Form className="d-flex">
                         <Form.Control type="search" placeholder="Search" className="me-2" aria-label="Search" />
