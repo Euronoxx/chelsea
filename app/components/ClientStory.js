@@ -14,7 +14,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.&quot;</p>
-                                    <p>Artem Sazonov<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Artem Sazonov<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -23,7 +23,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;Has no control about the blind texts it is an almost unorthographic.&quot;</p>
-                                    <p>Chioke Chinasa<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Chioke Chinasa<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -32,7 +32,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;About the blind texts it is an almost unorthographic life One day however a small line of blind text by the name.&quot;</p>
-                                    <p>Hou Shu<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Hou Shu<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -41,7 +41,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;One day however a small line of blind text by the name of Lorem Ipsum.&quot;</p>
-                                    <p>Jontray Arnold<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Jontray Arnold<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -54,7 +54,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.&quot;</p>
-                                    <p>Artem Sazonov<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Artem Sazonov<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -63,7 +63,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;Has no control about the blind texts it is an almost unorthographic.&quot;</p>
-                                    <p>Chioke Chinasa<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Chioke Chinasa<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -72,7 +72,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;About the blind texts it is an almost unorthographic life One day however a small line of blind text by the name.&quot;</p>
-                                    <p>Hou Shu<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Hou Shu<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
@@ -81,7 +81,7 @@ const ClientStory = () => {
                                 <CardBody>
                                     <Image src="/img/blue-quote.png" width={40} alt="Quote" />
                                     <p className="body22 py-4">&quot;One day however a small line of blind text by the name of Lorem Ipsum.&quot;</p>
-                                    <p>Jontray Arnold<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
+                                    <p className="body22">Jontray Arnold<br /><Image src="/img/five-star.png" alt="Five Star" /></p>
                                 </CardBody>
                             </Card>
                         </Col>
