@@ -20,7 +20,7 @@ const Header = () => {
         </Container>
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container>
-                <Navbar.Brand href="#home">
+                <Navbar.Brand href="/">
                     <Image src={"/img/chelsea-logo.png"} width={177} height={50} alt='Chelsea Logo' />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

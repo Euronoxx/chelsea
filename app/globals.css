@@ -41,21 +41,17 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
-  position: relative;
 }
 .homebannerbg h1 {
   font-size: 58px;
   color: #fff;
   line-height: 74px;
-  margin-top: 200px;
-  position: absolute;
-  width: 50%;
+  padding-top: 200px;
+  width: 60%;
 }
 .homebannerbg p {
-  position: absolute;
   color: #fff;
   font-size: 24px;
-  margin-top: 360px;
   width: 40%;
 }
 .body22 {
@@ -192,15 +188,13 @@ a {
     font-size: 22px;
     color: #fff;
     line-height: 34px;
-    margin-top: 70px;
-    position: absolute;
+    padding-top: 60px;
     width: 70%;
   }
   .homebannerbg p {
     position: absolute;
     color: #fff;
     font-size: 14px;
-    margin-top: 140px;
     width: 60%;
   }
   .body22 {
