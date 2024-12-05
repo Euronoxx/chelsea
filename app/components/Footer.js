@@ -47,7 +47,7 @@ const Footer = () => {
                 <hr style={{color:'#898989'}} />
             </Container>
             <Container className="py-5 d-flex">
-                <p>&copy; {curyear} Chelsea Enterprises. All Rights Reserved.</p><p className="ms-auto" style={{marginRight:'15px'}}><Link href={"#"}>Terms of use</Link></p><p><Link href={"#"}>Privacy Policy</Link></p>
+                <p>&copy; {curyear} Chelsea Enterprises. All Rights Reserved.</p><p className="ms-auto" style={{marginRight:'15px'}}><Link href={"/terms-of-use"}>Terms of use</Link></p><p><Link href={"/privacy-policy"}>Privacy Policy</Link></p>
             </Container>
         </Container>
     );
