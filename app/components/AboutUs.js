@@ -6,7 +6,13 @@ const AboutUs = () => {
         <Container className="py-5">
             <Row>
                 <Col md={6} sm={12} xs={12}>
-                    <Image src="/img/doctors-group.png" fluid alt="A group of doctors" />
+                    <div className="position-relative">
+                        <Image src="/img/doctors-group.png" fluid alt="A group of doctors" />
+                        <div className="position-absolute top-0 end-0 translate-middle-y">
+                            <Image src="/img/badge.png" fluid alt="Badge" />
+                        </div>
+                    </div>
+                    
                 </Col>
                 <Col md={6} sm={12} xs={12}>
                     <h1 className="px-5 py-4">About Us</h1>
