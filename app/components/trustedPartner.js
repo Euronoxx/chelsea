@@ -14,7 +14,7 @@ const TrustefPartner = () => {
                     <Image src="/img/chelsea.png" fluid alt="Chelsea" />
                     <Image src="/img/fisher.png" fluid alt="Fisher" />
                 </div>
-                <Button variant="success" size="lg" href="#" className="my-5">View Equipments</Button>
+                <Button variant="success" size="lg" href="/products" className="my-5">View Equipments</Button>
             </Container>
         </Container>
     );

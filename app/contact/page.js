@@ -38,7 +38,7 @@ const Contact = () => {
                         <Image src="/img/location.png" width={70} alt="Email" />
                         <h4 className="txtblue mt-4">Visit Us</h4>
                         <p className="body22">Check out helpful resources, FAQs and developer tools.</p>
-                        <Button variant="outline-primary" size="lg">View Location <i class="bi bi-arrow-right"></i></Button>
+                        <Button variant="outline-primary" size="lg">View Location <i className="bi bi-arrow-right"></i></Button>
                     </div>
                 </Col>
             </Row>

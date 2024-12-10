@@ -94,6 +94,13 @@ a {
 .bluebg p {
   font-size: 28px;
 }
+.productbannerbg {
+  background-color: #00AFEF;
+}
+.productbannerbg img {
+  background-color: #fff;
+  border-radius: 8px;
+}
 .txtblue {
   color: #00AFEF;
 }

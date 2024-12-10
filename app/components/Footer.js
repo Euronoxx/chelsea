@@ -38,9 +38,9 @@ const Footer = () => {
                     <Col md={3} sm={12} xs={12}>
                         <div className="footermenu">
                             <h4>SOCIAL</h4>
-                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i class="bi bi-facebook"></i></span>
-                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i class="bi bi-twitter"></i></span>
-                            <span style={{color:'#00AFEF',fontSize:'28px'}}><i class="bi bi-instagram"></i></span>
+                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-facebook"></i></span>
+                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-twitter"></i></span>
+                            <span style={{color:'#00AFEF',fontSize:'28px'}}><i className="bi bi-instagram"></i></span>
                         </div>
                     </Col>
                 </Row>

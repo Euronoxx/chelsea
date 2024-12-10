@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "name": "Medtronic",
+        "categories": [
+            "Ablation Products",
+            "Electrosurgical accessories",
+            "Electrosurgical hardware",
+            "Electrosurgical instruments",
+            "Laparoscopic access instruments",
+            "Pain management",
+            "Smoke evacuation systems and accessories",
+            "Superficial vein",
+            "Surgical energy systems",
+            "Surgical sponge detection systems",
+            "Ultrasonic dissection products",
+            "Vessel sealing"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Fisher & Paykel Healthcare",
+        "categories": [
+            "Humidification",
+            "Breathing Circuits",
+            "Chambers",
+            "Masks",
+            "Nasal Cannula",
+            "Accessories",
+            "Interfaces",
+            "CPAP Devices"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Teleflex",
+        "categories": [
+            "Weck® Metal Ligation"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lohmann Rausher",
+        "categories": [
+            "Kitpack",
+            "Raucodrape",
+            "Sentinex",
+            "Sempermed",
+            "Sentina and Sempercare",
+            "Setpack",
+            "Gazin and Toptex",
+            "Sentina",
+            "L&R Prevent & Protect"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Euronoxx Medical",
+        "categories": [
+            "Koning"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "The Chelsea",
+        "categories": [
+            "Chelsea product"
+        ]
+    }
+]
