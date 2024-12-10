@@ -1,0 +1,181 @@
+[
+    {
+        "id": 82121,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "Symplicity Spyral™ renal denervation system",
+        "slug": "symplicity-spyral-renal-denervation-system",
+        "url": "",
+        "imgurl": "/img/symplicity-spyral-right-white-prod.jpg",
+        "videourl": "",
+        "shortdesc": "The Symplicity Spyral™ renal denervation (RDN) system is used during the Symplicity™ blood pressure procedure for the treatment of hypertension.",
+        "deschead": "Introducing a procedure to treat hypertension",
+        "description": "During the Symplicity™ blood pressure procedure, an interventionalist uses the Symplicity Spyral™ RDN system to supply precisely controlled and targeted radiofrequency (RF) energy to the renal nerves, safely disrupting the overactive sympathetic signaling between the kidneys and brain to help reduce blood pressure.1-3",
+        "features": {
+            "ftr-1": {
+                "name": "Symplicity Spyral™ multi-electrode renal denervation catheter",
+                "ftrvals": [
+                    "One catheter size fits vessels 3-8 mm",
+                    "4 F catheter, compatible with 6 F guide catheter, 0.014 inch guidewire",
+                    "Easy-to-use, plug-and-play design",
+                    "Nonocclusive design allows for continuous blood flow to naturally protect the vessel wall"
+                ]
+            },
+            "ftr-2": {
+                "name": "Symplicity G3™ renal denervation RF generator",
+                "ftrvals": [
+                    "Unique, real-time, and responsive algorithm automatically adjusts power by monitoring temperature and impedance for safe energy distribution",
+                    "Multi-electrode, helical design covers four quadrants simultaneously for a circumferential ablation",
+                    "Radiofrequency energy preferentially heats fat tissue where renal nerves are located and avoids nontarget structures",
+                    "Only the Symplicity Spyral™ RDN system allows for denervation throughout the renal anatomy with a single catheter, including the distal branches, where late arriving nerves are accessible and total nerve density is highest"
+                ]
+            },
+            "ftr-3": {
+                "name": "Proven to deliver significant, safe, and sustained blood pressure reductions",
+                "ftrvals": [
+                    "Multiple randomized, sham-controlled clinical trials",
+                    "Real-world experience with more than 4,000 patients enrolled in the SPYRAL HTN clinical program"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82122,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "Accurian™ RF ablation platform",
+        "slug": "accurian-rf-ablation-platform",
+        "url": "",
+        "imgurl": "/img/accurian-generator-prod.jpg",
+        "videourl": "",
+        "shortdesc": "Accurian™ is a radiofrequency (RF) nerve tissue ablation platform that delivers consistent and predictable lesions and smart features for ease of use.",
+        "deschead": "RF ablation platform designed from the ground up",
+        "description": "The Accurian™ radiofrequency (RF) ablation platform combines proprietary hardware design and quad core processing, resulting in sophisticated algorithms that manage power and control temperature during ablation surgery. Together, enhanced and standard ablation procedures create a comprehensive range of lesion shapes, sizes, and volumes — predictably and consistently. Extensively tested for lasting reliability, the Accurian™ ablation therapy platform is upgrade-ready for the future.",
+        "features": {
+            "ftr-1": {
+                "name": "Form consistent and predictable lesions across all channels",
+                "ftrvals": [
+                    "The ultra-responsive proprietary algorithm accurately regulates temperature — resulting in consistent and predictable lesion formation during the entire procedure on all active channels.",
+                    "The SmartStart™ algorithm strategically distributes power to ensure that all channels reach and maintain the set temperature — reducing the risk of underpowered scenarios."
+                ]
+            },
+            "ftr-2": {
+                "name": "Smart probes",
+                "ftrvals": [
+                    "On-screen identification helps you easily troubleshoot a specific channel",
+                    "Chip-enhanced probes",
+                    "On-screen tutorials"
+                ]
+            },
+            "ftr-3": {
+                "name": "Manage four channels independently",
+                "ftrvals": [
+                    "Channel-specific start/stop/restart, temperature control and timer control mean you can manage four ablations independently — even mid-procedure.",
+                    "Advanced power management allows four channels to start simultaneously — independently or staggered."
+                ]
+            },
+            "ftr-4": {
+                "name": "Boost efficiency with smart features",
+                "ftrvals": [
+                    "PDF procedure and reusable probe usage reports",
+                    "14-ft combined hub and probe cables",
+                    "Ability to self-test and self-calibrate with each generator start, reducing the need for maintenance"
+                ]
+            },
+            "ftr-5": {
+                "name": "Technology features",
+                "ftrvals": [
+                    "Easily upgrade software via USB to minimize downtime",
+                    "High-resolution 16:9 touchscreen",
+                    "HDMI port for secondary monitor",
+                    "Intuitive and easy-to-use design",
+                    "Room for up to 10 treatment or physician profiles"
+                ]
+            },
+            "ftr-6": {
+                "name": "Accurian™ enhanced RF",
+                "ftrvals": [
+                    "Internally cooled probes create larger, spherical lesions (compared to standard lesions) with greater distal projection.",
+                    "Enhanced probes offer increased flexibility in approach angle (as much as 45% of lesion volume is projected distally to probe tip).",
+                    "Add cooling pump for enhanced procedures with internally cooled probes."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82123,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "OsteoCool™ RF ablation system",
+        "slug": "osteocool-radiofrequency-ablation-system",
+        "url": "",
+        "imgurl": "/img/pain-osteocool-spine-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "OsteoCool™ cooled radiofrequency (RF) ablation system that uses simultaneous, dual-probe capabilities and algorithms to treat painful bone tumors.",
+        "deschead": "Treat painful bone tumors confidently and consistently",
+        "description": "The OsteoCool™ RF ablation system is cooled radiofrequency (RF) ablation technology that offers simultaneous, dual-probe capabilities for treating painful bone tumors. Coaxial, bipolar technology delivers RF energy to the site and automatically moderates power to keep RF heating within the desired treatment range. This reduces risk of potential thermal damage to adjacent tissue. The active tip of the ablation probe is internally cooled with circulating water. RF energy heats the tissue while circulating water moderates the temperature close to the active tip.",
+        "features": {
+            "ftr-1": {
+                "name": "Customize your ablation options",
+                "ftrvals": [
+                    "Metastatic and benign bone tumor ablation",
+                    "Simultaneous ablation of adjacent or multiple levels in the spine",
+                    "Simultaneous ablation using two probes, such as bipedicular spine tumor ablation",
+                    "Ablation using one probe",
+                    "Multiple active tip sizes and introducer gauge options",
+                    "Custom ablation zones",
+                    "Track ablation"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82124,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "PulseSelect™ pulsed field ablation system",
+        "slug": "pulseselect-pulsed-field-ablation-system",
+        "url": "",
+        "imgurl": "/img/pain-osteocool-spine-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The PulseSelect™ pulsed field ablation (PFA) system enables both mapping and precise lesion delivery using biphasic waveform optimization.",
+        "deschead": "Setting a new standard in safety. Engineered for efficiency.",
+        "description": "The PulseSelect™ PFA system is setting a new standard in safety for paroxysmal and persistent atrial fibrillation ablation, supported by 15 years of robust preclinical and clinical evidence. The PulseSelect™ PFA system offers a differentiated approach to pulsed field ablation that can be implemented across workflows, driving safe, effective, and efficient procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Unmatched safety",
+                "ftrvals": [
+                    "Engineered with differentiated safety features from 15 years of PFA research and backed by one of the safest investigational device exemption (IDE) AF ablation trials to date."
+                ]
+            },
+            "ftr-2": {
+                "name": "Consistent efficiency",
+                "ftrvals": [
+                    "Rapid, effective pulmonary vein isolation (PVI) through consistent and predictable energy delivery and catheter maneuverability"
+                ]
+            },
+            "ftr-3": {
+                "name": "Simplified adaptability",
+                "ftrvals": [
+                    "Seamless transition to PFA with freedom to adapt to your preferred workflow"
+                ]
+            },
+            "ftr-4": {
+                "name": "PulseSelect™ generator",
+                "ftrvals": [
+                    "Automatic overcurrent detection for safe energy delivery",
+                    "R-wave gating for synchronization of energy delivery",
+                    "Test pulse for proximity detection to phrenic nerve"
+                ]
+            },
+            "ftr-5": {
+                "name": "PulseSelect™ PFA catheter features",
+                "ftrvals": [
+                    "9 electrodes built to sense, ablate, and pace",
+                    "25 mm diameter loop",
+                    "9 Fr shaft with bidirectional steering"
+                ]
+            }
+        }
+    }
+]
