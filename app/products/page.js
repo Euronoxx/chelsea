@@ -24,8 +24,8 @@ const Products = () => {
                 <Col md={9} className="d-flex">
                     <Row>
                         {products.filter(item => item.brand === 'Medtronic').map(item => (
-                            <Col md={4}>
-                                <Card key={item.id} style={{ height:'27rem' }} className="mb-4">
+                            <Col md={4} key={item.id}>
+                                <Card style={{ height:'27rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{width:'auto',height:'180px', display:'block'}} />
                                         <p key={item.id} className="body22 txtblue">{item.title}</p>
