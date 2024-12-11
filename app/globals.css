@@ -177,6 +177,10 @@ a {
   margin-top: -400px;
   border-radius: 8px;
 }
+.accordianmenu {
+  text-decoration: none;
+  color: #898989;
+}
 
 /* CSS for mobile window */
 @media (max-width: 600px) {
