@@ -1,5 +1,5 @@
 "use client"
-import { Card, CardBody, Col, Container, Image, Row } from "react-bootstrap";
+import { Button, Card, CardBody, Col, Container, Image, Row } from "react-bootstrap";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import products from '../data/products.json';
@@ -25,11 +25,11 @@ const Products = () => {
                     <Row>
                         {products.filter(item => item.brand === 'Medtronic').map(item => (
                             <Col md={4} key={item.id}>
-                                <Card style={{ height:'27rem' }} className="mb-4">
+                                <Card style={{ height:'21rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{width:'auto',height:'180px', display:'block'}} />
                                         <p key={item.id} className="body22 txtblue">{item.title}</p>
-                                        <small key={item.id}>{item.shortdesc}</small>
+                                        <Button variant="primary" className="w-100">View Detail</Button>
                                     </CardBody>
                                 </Card>
                             </Col>
