@@ -14,8 +14,8 @@ const ProductBanner = () => {
                     </Col>
                 </Row>
             </Container>
-            <Container className="py-3 text-center">
-                <div className="d-flex gap-4 justify-content-center flex-md-row flex-column">
+            <Container>
+                <div className="d-flex gap-4 justify-content-center d-none d-sm-none d-md-flex py-3">
                     <Image src="/img/koning.png" fluid alt="Koning" />
                     <Image src="/img/medtronic.png" fluid alt="Medtronic" />
                     <Image src="/img/lohmann.png" fluid alt="Lohmann" />

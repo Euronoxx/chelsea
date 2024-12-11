@@ -177,5 +177,156 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82125,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "Sphere-9™ PF Ablation catheter",
+        "slug": "sphere-9-catheter",
+        "url": "",
+        "imgurl": "/img/sphere-nine-catheter-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Sphere-9™ mapping and ablation catheter provides mapping and dual-energy ablation options including radiofrequency (RF) and pulsed field (PF) energies.",
+        "deschead": "Efficiency of Sphere-9™ catheter",
+        "description": "The Sphere-9™ mapping and ablation catheter provides unparalleled versatility, absolute control, and an optimized workflow for electrophysiologists.",
+        "features": {
+            "ftr-1": {
+                "name": "All-in-one: map | ablate | validate",
+                "ftrvals": [
+                    "The novel Sphere-9™ catheter is an all-in-one tool enabling physicians to map, ablate, and validate with a single transeptal, zero-exchange workflow.",
+                    "The compressible lattice tip with wide-area focal design and close unipolar mapping capability offers proven safety, efficacy, and superior efficiency1 to promote confidence in procedural outcomes."
+                ]
+            },
+            "ftr-2": {
+                "name": "Sphere-9™ catheter at a glance",
+                "ftrvals": [
+                    "9 mm, compressible lattice ablation electrode",
+                    "9 mini electrodes with integrated thermocouples",
+                    "Central reference electrode",
+                    "Low flow, central irrigation",
+                    "8 Fr, bi-directional shaft"
+                ]
+            },
+            "ftr-3": {
+                "name": "Map",
+                "ftrvals": [
+                    "Create high-density maps in less than 11 minutes with greater than 5000 points.",
+                    "Close-unipolar mapping provides the benefits of bipolar and unipolar electrograms while avoiding the challenges of each",
+                    "Maintain wavefront morphology",
+                    "Reduce far-field potentials",
+                    "Provide high fidelity and discreate EGMs"
+                ]
+            },
+            "ftr-4": {
+                "name": "Wide-area focal lattice ablation electrode",
+                "ftrvals": [
+                    "10 times larger effective surface area",
+                    "Compressible tip for conformability and stability",
+                    "THERMOCOOL SMARTTOUCH™ SF"
+                ]
+            },
+            "ftr-5": {
+                "name": "RF and PF ablation options",
+                "ftrvals": [
+                    "4-5 seconds energy application time",
+                    "PF lesions greater than 17 mm wide",
+                    "RF lesions greater than19 mm wide"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82126,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "OsteoCool™ 2.0 bone tumor ablation system",
+        "slug": "osteocool-2-0-bone-tumor-ablation-system",
+        "url": "",
+        "imgurl": "/img/osteocool-rb-ablation-bone-tumor-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The OsteoCool™ 2.0 system is an internally-cooled radiofrequency (RF) ablation system with four-probe capability to palliatively treat painful bone tumors.",
+        "deschead": "Efficiency of OsteoCool™ 2.0 RF ablation system",
+        "description": "The OsteoCool™ 2.0 RF ablation system helps you deliver optimal care for your patients — faster. OsteoCool™ 2.0 ablates up to 30% faster than OsteoCool™ 1.0, supports the use of four probes simultaneously, and delivers a market-leading 20 W of power per channel.",
+        "features": {
+            "ftr-1": {
+                "name": "Independent channel control",
+                "ftrvals": [
+                    "Independent channel control allows you to start and stop ablation on each channel individually, while internally-cooled probes reduce the risk of charring without introducing ionic solutions into the ablation."
+                ]
+            },
+            "ftr-2": {
+                "name": "Widest selection of probe sizes",
+                "ftrvals": [
+                    "OsteoCool™ 2.0 provides consistent, predictable ablation zones with the flexibility to tailor the ablation zone to your patients‘ needs. Backed by OPuS One,‡,5 the largest study of RF ablation in bone metastases, the OsteoCool™ 2.0 RF ablation system gives you the control to deliver powerful, predictable, and proven pain relief."
+                ]
+            },
+            "ftr-3": {
+                "name": "OsteoCool™ hard bone access kit",
+                "ftrvals": [
+                    "The Medtronic bone access tool kit includes a tapered cannula, sharper trocar, and enhanced drill design",
+                    "Offer faster access to sclerotic bone",
+                    "Reduce the force required to advance the tool",
+                    "Are versatile for use for all cases"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82127,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "Barrx™ radiofrequency ablation system",
+        "slug": "barrx-radiofrequency-ablation-system",
+        "url": "",
+        "imgurl": "/img/barrx-radiofrequenncy-ablation-system-catheters-fam.jpeg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ radiofrequency ablation system is used to treat Barrett's esophagus (BE) patients by eradicating Barrett's epithelium.",
+        "deschead": "Why choose radiofrequency ablation for Barrett's esophagus patients?",
+        "description": "The Barrx™ radiofrequency ablation system is designed to precisely eradicate the Barrett's epithelium. Barrett's esophagus patients with low-grade dyplasia treated with RFA have a substantial reduction in progression compared to patients who undergo surveillance alone. The Barrx™ radiofrequency ablation system includes the Barrx™ flex RFA energy generator and a family of ablation catheters.",
+        "features": {
+            "ftr-1": {
+                "name": "When treating Barrett's esophagus",
+                "ftrvals": [
+                    "Dysplasia",
+                    "Family history of Barrett's esophagus or EAC",
+                    "Long-segment disease",
+                    "Smoking tobacco"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82128,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "title": "DiamondTemp™ RF generator",
+        "slug": "diamondtemp-generator-pump-and-accessories",
+        "url": "",
+        "imgurl": "/img/diamondtemp-generator-connection-box-e-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The DiamondTemp™ generator, pump, and accessories supply energy and temperature control to the DiamondTemp™ cathether during cardiac ablation procedures.",
+        "deschead": "Why DiamondTemp™ RF generator?",
+        "description": "As the only open-irrigated radiofrequency (RF) catheter with industrial diamonds to optimize power based on tissue surface temperature, the DiamondTemp™ ablation system with RealTemp™ is safe and effective, and has demonstrated procedural efficiencies compared to contact force-sensing RF.",
+        "features": {
+            "ftr-1": {
+                "name": "DiamondTemp™ generator connection box E",
+                "ftrvals": [
+                    "The Medtronic DiamondTemp™ generator connection box E is a signal filtration device used to connect the DiamondTemp™ ablation catheter and DiamondTemp™ RF generator to Abbott EnSite™* cardiac mapping and navigation systems configured to use NavX navigation technology"
+                ]
+            },
+            "ftr-2": {
+                "name": "DiamondTemp™ RF generator",
+                "ftrvals": [
+                    "The DiamondTemp™ ablation generator operates in temperature control mode. The desired catheter tip-to-tissue temperature is selected by the user."
+                ]
+            },
+            "ftr-3": {
+                "name": "DiamondTemp™ catheter-to-RFG cable",
+                "ftrvals": [
+                    "The DiamondTemp™ catheter-to-RF generator cable provides the connection between the DiamondTemp™ generator and DiamondTemp™ catheter. "
+                ]
+            }
+        }
     }
 ]
