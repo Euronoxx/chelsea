@@ -9,7 +9,8 @@ import { useState } from "react";
 
 const Products = () => {
 
-    const [category, setCategory] = useState(1);
+    const [category, setCategory] = useState('ablation-products');
+    const [brand, setBrand] = useState('medtronic');
 
     return (
         <>
@@ -25,11 +26,11 @@ const Products = () => {
                     <Row>
                         {products.filter(item => item.brand === 'Medtronic').map(item => (
                             <Col md={4} key={item.id}>
-                                <Card style={{ height:'21rem' }} className="mb-4">
+                                <Card style={{ minHeight: '21rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{width:'auto',height:'180px', display:'block'}} />
                                         <p key={item.id} className="body22 txtblue">{item.title}</p>
-                                        <Button variant="primary" className="w-100">View Detail</Button>
+                                        <Button variant="primary" href={`${item.path}/${item.slug}`} className="w-100">View Detail</Button>
                                     </CardBody>
                                 </Card>
                             </Col>

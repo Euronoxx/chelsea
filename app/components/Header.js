@@ -8,17 +8,19 @@ import Image from 'next/image';
 const Header = () => {
     return (
         <>
-        <Container fluid className="py-3 topbar d-none d-md-block">
-            <Container className='position-relative'>
-                <i className="bi bi-telephone"></i> +91-86288-00023 <i className="bi bi-envelope" style={{marginLeft:'12px'}}></i> contact@the-chelsea.com
-                <div className="position-absolute top-0 end-0 d-flex flex-row" style={{gap:'22px'}}>
+        <Container fluid className="topbar d-none d-md-block">
+            <Container className='d-flex py-3'>
+                <div>
+                    <i className="bi bi-telephone"></i> +91-86288-00023 <i className="bi bi-envelope" style={{marginLeft:'12px'}}></i> contact@the-chelsea.com
+                </div>
+                <div className="d-flex ms-auto" style={{gap:'22px'}}>
                     <i className="bi bi-instagram"></i>
                     <i className="bi bi-twitter"></i>
                     <i className="bi bi-facebook"></i>
                 </div>
             </Container>
         </Container>
-        <Navbar expand="lg" className="bg-body-tertiary">
+        <Navbar expand="lg">
             <Container>
                 <Navbar.Brand href="/">
                     <Image src={"/img/chelsea-logo.png"} width={177} height={50} alt='Chelsea Logo' />
