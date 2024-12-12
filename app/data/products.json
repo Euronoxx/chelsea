@@ -3,6 +3,7 @@
         "id": 82121,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "Symplicity Spyral™ renal denervation system",
         "slug": "symplicity-spyral-renal-denervation-system",
         "url": "",
@@ -10,7 +11,7 @@
         "videourl": "",
         "shortdesc": "The Symplicity Spyral™ renal denervation (RDN) system is used during the Symplicity™ blood pressure procedure for the treatment of hypertension.",
         "deschead": "Introducing a procedure to treat hypertension",
-        "description": "During the Symplicity™ blood pressure procedure, an interventionalist uses the Symplicity Spyral™ RDN system to supply precisely controlled and targeted radiofrequency (RF) energy to the renal nerves, safely disrupting the overactive sympathetic signaling between the kidneys and brain to help reduce blood pressure.1-3",
+        "description": "During the Symplicity™ blood pressure procedure, an interventionalist uses the Symplicity Spyral™ RDN system to supply precisely controlled and targeted radiofrequency (RF) energy to the renal nerves, safely disrupting the overactive sympathetic signaling between the kidneys and brain to help reduce blood pressure.",
         "features": {
             "ftr-1": {
                 "name": "Symplicity Spyral™ multi-electrode renal denervation catheter",
@@ -43,6 +44,7 @@
         "id": 82122,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "Accurian™ RF ablation platform",
         "slug": "accurian-rf-ablation-platform",
         "url": "",
@@ -106,6 +108,7 @@
         "id": 82123,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "OsteoCool™ RF ablation system",
         "slug": "osteocool-radiofrequency-ablation-system",
         "url": "",
@@ -133,6 +136,7 @@
         "id": 82124,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "PulseSelect™ pulsed field ablation system",
         "slug": "pulseselect-pulsed-field-ablation-system",
         "url": "",
@@ -182,6 +186,7 @@
         "id": 82125,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "Sphere-9™ PF Ablation catheter",
         "slug": "sphere-9-catheter",
         "url": "",
@@ -240,6 +245,7 @@
         "id": 82126,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "OsteoCool™ 2.0 bone tumor ablation system",
         "slug": "osteocool-2-0-bone-tumor-ablation-system",
         "url": "",
@@ -276,6 +282,7 @@
         "id": 82127,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "Barrx™ radiofrequency ablation system",
         "slug": "barrx-radiofrequency-ablation-system",
         "url": "",
@@ -300,6 +307,7 @@
         "id": 82128,
         "brand": "Medtronic",
         "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
         "title": "DiamondTemp™ RF generator",
         "slug": "diamondtemp-generator-pump-and-accessories",
         "url": "",
@@ -324,7 +332,66 @@
             "ftr-3": {
                 "name": "DiamondTemp™ catheter-to-RFG cable",
                 "ftrvals": [
-                    "The DiamondTemp™ catheter-to-RF generator cable provides the connection between the DiamondTemp™ generator and DiamondTemp™ catheter. "
+                    "The DiamondTemp™ catheter-to-RF generator cable provides the connection between the DiamondTemp™ generator and DiamondTemp™ catheter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82129,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ channel RFA endoscopic catheter",
+        "slug": "barrx-channel-rfa-endoscopic-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-channel-rfa-endoscopic-catheter-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ channel RFA endoscopic catheter delivers radiofrequency ablation through the working channel of a flexible endoscope.",
+        "deschead": "A breakthrough in RFA delivery therapy",
+        "description": "The Barrx™ channel RFA endoscopic catheter delivers radiofrequency ablation through the working channel of a flexible endoscope, offering a simplified and more time-efficient procedure.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Eliminates the need for multiple endoscope introductions",
+                    "Semi-transparent ablation electrode offers enhanced visualization capabilities",
+                    "Unique shaft design provides control and maneuverability",
+                    "Offers expanded access within the GI tract"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82130,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ 60 RFA focal catheter",
+        "slug": "barrx-60-rfa-focal-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-60-rfa-focal-catheter-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ 60 RFA focal catheter is used for primary treatment of short to intermediate segments of Barrett's esophagus or for treatment after ablation.",
+        "deschead": "Barrx™ 60 RFA focal catheter",
+        "description": "The Barrx™ 60 RFA focal catheter enables physicians to provide primary treatment for short and intermediate length segments of non-circumferential Barrett's esophagus. Physicians can also provide secondary treatment after ablation.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Provides easy introduction into upper GI tract",
+                    "Allows positioning within the esophagus and gastroesophageal junction",
+                    "Provides for direct visualization of electrode during procedure",
+                    "Uses standard endoscopic technique",
+                    "Articulated electrode platform moves in 2-D, left to right and front to back, to ensure tissue contact"
+                ]
+            },
+            "ftr-2": {
+                "name": "General characteristics",
+                "ftrvals": [
+                    "Single-patient use",
+                    "Up to 80 ablation treatments per session",
+                    "Fits on distal end of a flexible endoscope"
                 ]
             }
         }
