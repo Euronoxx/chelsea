@@ -24,7 +24,7 @@ const ProductDetail = ({params}) => {
                         <Button variant="primary" size="lg" className="mt-3">Contact Sales</Button>
                     </Col>
                 </Row>
-                <h4>Description</h4>
+                <h4 className="txtblack mt-5">Description</h4>
                 <h2>{product.deschead}</h2>
                 <p className="body22">{product.description}</p>
                 {Object.values(product.features).map((value, index) => {
