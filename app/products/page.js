@@ -29,7 +29,7 @@ const Products = () => {
                                 <Card style={{ minHeight: '21rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{width:'auto',height:'180px', display:'block'}} />
-                                        <p key={item.id} className="body22 txtblue">{item.title}</p>
+                                        <p key={item.id} className="body22 txtblack">{item.title}</p>
                                         <Button variant="primary" href={`${item.path}/${item.slug}`} className="w-100">View Detail</Button>
                                     </CardBody>
                                 </Card>

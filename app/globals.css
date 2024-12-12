@@ -104,6 +104,9 @@ a {
 .txtblue {
   color: #00AFEF;
 }
+.txtblack {
+  color: black;
+}
 .bluecard {
   background-image: url('/img/bluecard.png');
   background-position: center;
