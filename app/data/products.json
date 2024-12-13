@@ -395,5 +395,27 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82131,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "Valleylab™ adapter (Foot Switching)",
+        "slug": "valleylab-adapter",
+        "url": "",
+        "imgurl": "/img/valleylab-electrosurgery-adapter-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ active and specialty adapter interfaces with all electrosurgical generators for foot switching adaptation.",
+        "deschead": "Valleylab™ adapter",
+        "description": "The Valleylab™ active and specialty adapter interfaces with all electrosurgical generators for foot switching adaptation.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Fits with all electrosurgical generators for foot switching adaptation"
+                ]
+            }
+        }
     }
 ]

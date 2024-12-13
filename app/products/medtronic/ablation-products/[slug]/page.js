@@ -2,9 +2,10 @@
 import Header from "@/app/components/Header";
 import Footer from "@/app/components/Footer";
 import Products from "@/app/data/products.json";
+
 const { Container, Row, Col, Image, Button } = require("react-bootstrap");
 
-const ProductDetail = ({params}) => {
+const AblationProductDetail = ({params}) => {
 
     const paramUrl = params.slug;
 
@@ -30,10 +31,13 @@ const ProductDetail = ({params}) => {
                 {Object.values(product.features).map((value, index) => {
                     return (
                         <div key={index}>
-                            {Object.values(value).map((value, index) => {
+                            <h4 className="txtblack pt-3">{value.name}</h4>
+                            {Object.values(value.ftrvals).map((value, index) => {
                                 return (
                                     <div key={index} className="body22">
-                                        {value}
+                                        <ul>
+                                            <li>{value}</li>
+                                        </ul>
                                     </div>
                                 );
                             })}
@@ -47,4 +51,4 @@ const ProductDetail = ({params}) => {
         </>
     );
 }
-export default ProductDetail;
+export default AblationProductDetail;
