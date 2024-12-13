@@ -16,7 +16,7 @@ const Products = () => {
         <>
         <Header />
         <ProductBanner />
-        <Container className="p-5">
+        <Container className="py-5">
             <h2 className="mb-4">Products</h2>
             <Row>
                 <Col md={3}>
