@@ -23,7 +23,7 @@ const CategoryPage = ({paramUrl}) => {
                     <Row>
                         {products.filter(item => item.category === genstr(paramUrl)).map(item => (
                             <Col md={4} key={item.id}>
-                                <Card style={{ minHeight: '21rem' }} className="mb-4">
+                                <Card style={{ height: '21rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{height:'180px', display:'block'}} />
                                         <CardFooter>
