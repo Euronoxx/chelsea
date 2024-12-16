@@ -367,7 +367,7 @@
         "brand": "Medtronic",
         "category": "Ablation Products",
         "path": "/products/medtronic/ablation-products",
-        "title": "Barrx™ 60 RFA focal catheter",
+        "title": "Barrx™ 60 RFA focal catheter (short segments)",
         "slug": "barrx-60-rfa-focal-catheter",
         "url": "",
         "imgurl": "/img/barrx-60-rfa-focal-catheter-prodmast.jpeg",
@@ -414,6 +414,97 @@
                 "name": "Main Features",
                 "ftrvals": [
                     "Fits with all electrosurgical generators for foot switching adaptation"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82132,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ FT10 energy platform",
+        "slug": "valleylab-ft10-energy-platform",
+        "url": "",
+        "imgurl": "/img/ft10-generator-40x-display-low-left-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ FT10 energy platform drives our full portfolio of energy-based devices for use in a wide range of procedures.",
+        "deschead": "It takes trust to advance",
+        "description": "For over 55 years, the Valleylab™ portfolio has shown an unwavering commitment to positive patient outcomes through trusted energy delivery, establishing pathways for future innovation in the surgical energy space.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ FT10 energy platform has optimized vessel sealing performance with LigaSure™ devices. High-speed, closed loop control continuously monitors the electrical properties of the tissue and uses an advanced vessel sealing algorithm to apply a proportionate amount of energy based on composition and size of the vessels being sealed."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82133,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "Valleylab™ accessory holster",
+        "slug": "valleylab-accessory-holster",
+        "url": "",
+        "imgurl": "/img/valleylab-accessory-holster-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ accessory holster stores pencils safely and conveniently between uses, reducing the potential for injury caused by inadvertent activation.",
+        "deschead": "Valleylab™ accessory holster",
+        "description": "The Valleylab™ accessory holster stores pencils safely and conveniently between uses, reducing the potential for injury caused by inadvertent activation.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ accessory holster stores pencils safely and conveniently between uses, reducing the potential for injury"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82134,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ FX8 energy platform",
+        "slug": "valleylab-fx8-energy-platform",
+        "url": "",
+        "imgurl": "/img/fx8-med-cen-cov-shad.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ FX8 energy platform drives electrosurgical handpieces in surgical procedures that require division, hemostasis, and dissection.",
+        "deschead": "Putting consistency in your hands",
+        "description": "The Valleylab™ FX8 energy platform is powered by our intelligent TissueFect™ tissue-sensing technology. It reads tissue composition to monitor and adjust to impedance as you perform. It is an electrosurgical device that adapts to produce consistent clinical tissue effects — in real time.",
+        "features": {
+            "ftr-1": {
+                "name": "The Valleylab™ FX8 energy platform drives electrosurgical handpieces with precision using lower levels of energy",
+                "ftrvals": [
+                    "It's designed to support a wide range of surgical procedures that require division, hemostasis, and dissection.",
+                    "The cut, coag, and soft coag modes, desiccate the tissue at a relatively slower rate with deeper thermal penetration."
+                ]
+            },
+            "ftr-2": {
+                "name": "The Valleylab™ FX8 energy platform enables two unique modes that can bring new possibilities to your procedures",
+                "ftrvals": [
+                    "Valleylab™ mode provides a unique combination of monopolar hemostasis and division.",
+                    "Shared coag mode allows two surgeons to work on the same patient at the same time — from a single energy platform."
+                ]
+            },
+            "ftr-3": {
+                "name": "Plus, the Valleylab™ FX8 energy platform delivers",
+                "ftrvals": [
+                    "Precise monopolar and bipolar energy",
+                    "Power control during monopolar energy delivery that's five times better than the ForceTriad™ energy platform",
+                    "Tissue monitoring that's 2,600 times faster than the Force FX™ electrosurgical generator",
+                    "Appropriate thermal spread"
+                ]
+            },
+            "ftr-4": {
+                "name": "Intelligent — inside and out",
+                "ftrvals": [
+                    "A smart, simple, and intuitive interface",
+                    "Simple controls and information displays",
+                    "The flexibility of the Valleylab™ Exchange software update system, which allows you to upgrade to new features using the internet"
                 ]
             }
         }

@@ -1,36 +1,33 @@
 "use client"
+import Accordian from "@/app/components/Accordian";
+import products from "@/app/data/products.json";
 import { Button, Card, CardBody, CardFooter, Col, Container, Image, Row } from "react-bootstrap";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import products from '../data/products.json';
-import Accordian from "../components/Accordian";
-import ProductBanner from "../components/ProductBanner";
-import { useState } from "react";
 
-const Products = () => {
+const CategoryPage = ({paramUrl}) => {
 
-    const [category, setCategory] = useState('Ablation Products');
-    const [brand, setBrand] = useState('Medtronic');
-
+    function genstr (str) {
+        str = str.toLowerCase().split('-');
+        for (let i = 0; i < str.length; i++) {
+        str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+        }
+        return str.join(' ');
+    }
+    
     return (
-        <>
-        <Header />
-        <ProductBanner />
         <Container className="py-5">
-            <h2 className="mb-4">Products</h2>
             <Row>
                 <Col md={3}>
                     <Accordian />
                 </Col>
                 <Col md={9} className="d-flex">
                     <Row>
-                        {products.filter(item => item.brand === brand).map(item => (
+                        {products.filter(item => item.category === genstr(paramUrl)).map(item => (
                             <Col md={4} key={item.id}>
                                 <Card style={{ minHeight: '21rem' }} className="mb-4">
                                     <CardBody>
                                         <Image src={item.imgurl} fluid alt={item.name} className="mx-auto mb-2" style={{height:'180px', display:'block'}} />
                                         <CardFooter>
-                                            <p key={item.id} className="body22 txtblack">{item.title}</p>
+                                            <p className="body22 txtblack">{item.title}</p>
                                             <Button variant="primary" href={`${item.path}/${item.slug}`} className="w-100">View Detail</Button>
                                         </CardFooter>
                                     </CardBody>
@@ -41,8 +38,6 @@ const Products = () => {
                 </Col>
             </Row>
         </Container>
-        <Footer />
-        </>
     );
 }
-export default Products;
+export default CategoryPage;
