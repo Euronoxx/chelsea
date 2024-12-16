@@ -508,5 +508,109 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82135,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ universal mounting cart",
+        "slug": "valleylab-universal-mounting-cart",
+        "url": "",
+        "imgurl": "/img/valleylab-universal-mounting-cart-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal mounting cart helps surgical teams manage OR space more efficiently by storing up to two generators and a smoke evacuator.",
+        "deschead": "Helps surgical teams manage more efficiently",
+        "description": "The Valleylab™ universal mounting cart helps surgical teams manage OR space more efficiently by storing up to two generators and a smoke evacuator.",
+        "features": {
+            "ftr-1": {
+                "name": "Two generators and a smoke evacuator",
+                "ftrvals": [
+                    "The Valleylab™ universal mounting cart helps surgical teams manage OR space more efficiently by storing up to two generators and a smoke evacuator."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82136,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Edge™ coated electrode",
+        "slug": "edge-coated-electrode",
+        "url": "",
+        "imgurl": "/img/3-edge-tips-front.jpeg",
+        "videourl": "",
+        "shortdesc": "The Edge™ coated electrode is designed to deliver uncompromised cutting performance for fine dissection, no matter what type of tissue.",
+        "deschead": "Edge coated blade electrodes",
+        "description": "The Edge™ coated electrode has been proven to provide performance beyond all other coated blade electrodes on the market.",
+        "features": {
+            "ftr-1": {
+                "name": "Edge coated blade electrodes",
+                "ftrvals": [
+                    "The Edge™ coated electrode has been proven to provide performance beyond all other coated blade electrodes on the market."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82137,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "HET™ bipolar system",
+        "slug": "het-biopolar-system",
+        "url": "",
+        "imgurl": "/img/het-bipolar-system-handpiece-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The HET™ bipolar system uses energy to treat grades I and II hemorrhoids in a non-surgical procedure.",
+        "deschead": "HET™ bipolar system for the treatment of grades I and II internal hemorrhoids",
+        "description": "The HET™ bipolar system is a gentle, simple, and efficient2 non-surgical treatment method for symptomatic grades I and II internal hemorrhoids. Its design allows treatment of all grade I and grade II internal hemorrhoids in one procedure. The treatment targets the area above the dentate line and its low treatment temperature minimizes collateral tissue damage.",
+        "features": {
+            "ftr-1": {
+                "name": "How is the HET™ bipolar system different than other hemorrhoid treatment options?",
+                "ftrvals": [
+                    "Many hemorrhoid treatments, including banding and infrared coagulation, often require multiple procedures. In contrast, HET™ bipolar system allows for hemorrhoid treatment in a single therapy session."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82138,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ PolyHesive™ patient return electrode",
+        "slug": "valleylab-polyhesive-corded-patient-return-electrode",
+        "url": "",
+        "imgurl": "/img/e7507-rem-adult-corded-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ PolyHesive™ corded patient return electrode is recognized worldwide for quality, safety, and innovative technology.",
+        "deschead": "The Valleylab™ PolyHesive™ corded patient return electrode is manufactured with our patented PolyHesive™ II high moisture, conductive adhesive",
+        "description": "The Valleylab™ PolyHesive™ corded patient return electrode is manufactured with our patented PolyHesive™ II high moisture, conductive adhesive hydrogel that provides the performance of a gel without the gel mess.",
+        "features": {
+            "ftr-1": {
+                "name": "PolyHesive™ II hydrogel benefits",
+                "ftrvals": [
+                    "Water-based hydrogel lowers skin resistance",
+                    "Elongation fills patient skin irregularities and minimizes contact voids to improve the total electrical conduction area"
+                ]
+            },
+            "ftr-2": {
+                "name": "Electrode benefits",
+                "ftrvals": [
+                    "Surface area disperses current over large area, minimizing heat buildup",
+                    "Acrylic adhesive improves pad contact quality and provides a moisture barrier to significantly reduce the potential for fluid invasion",
+                    "Adult, infant (less than 30 lbs.), and neonatal (less than 6 lbs.) sizes available",
+                    "Non-irritating and non-sensitizing"
+                ]
+            },
+            "ftr-3": {
+                "name": "REM contact quality monitoring system",
+                "ftrvals": [
+                    "The Valleylab™ REM PolyHesive™ system monitors patient impedance levels, automatically deactivating the generator if a fault at the patient return electrode is detected."
+                ]
+            }
+        }
     }
 ]
