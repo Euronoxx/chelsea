@@ -3,7 +3,7 @@ import { Card, Carousel, CarouselItem, Container, Image, Row, Col, CardBody, Car
 
 const ClientStory = () => {
     return (
-        <Container className="p-5 mb-5">
+        <Container className="py-5 mb-5">
             <h1 className="text-center">Our Clients Say</h1>
             <p className="text-center body22 pb-5">Our approach focuses on building strong relationships with our medical professionals and delivering best quality equipments. From preventive screenings to chronic disease management</p>
             <Carousel controls={false}>

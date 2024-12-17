@@ -11,8 +11,8 @@ const TrustefPartner = () => {
                     <Image src="/img/medtronic.png" fluid alt="Medtronic" />
                     <Image src="/img/lohmann.png" fluid alt="Lohmann" />
                     <Image src="/img/teleflex.png" fluid alt="Teleflex" />
-                    <Image src="/img/chelsea.png" fluid alt="Chelsea" />
                     <Image src="/img/fisher.png" fluid alt="Fisher" />
+                    <Image src="/img/chelsea.png" fluid alt="Chelsea" />
                 </div>
                 <Button variant="success" size="lg" href="/products" className="my-5">View Equipments</Button>
             </Container>

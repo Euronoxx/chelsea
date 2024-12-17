@@ -612,5 +612,93 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82139,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "Valleylab™ tip cleaner",
+        "slug": "valleylab-tip-cleaner",
+        "url": "",
+        "imgurl": "/img/valleylab-electrode-tip-cleaner-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ tip cleaner is designed for use with stainless steel electrodes.",
+        "deschead": "Valleylab™ tip cleaner",
+        "description": "The Valleylab™ tip cleaner is designed for use with stainless steel electrodes.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ tip cleaner is designed for use with stainless steel electrodes."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82140,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "Valleylab™ cord",
+        "slug": "valleylab-cord",
+        "url": "",
+        "imgurl": "/img/valleylab-electrosurgery-cord-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "Valleylab™ monopolar and bipolar accessory cords are available in single-use or reusable styles for hand switch or foot switch activated instruments.",
+        "deschead": "Valleylab™ electrosurgery cord",
+        "description": "Valleylab™ monopolar and bipolar accessory cords are available in single-use or reusable styles for hand switch or foot switch activated instruments.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Valleylab™ monopolar and bipolar accessory cords are available in single-use or reusable styles for hand switch or foot switch activated instruments."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82141,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "ForceTriad™ bipolar resection cord",
+        "slug": "forcetriad-bipolar-resection-cord",
+        "url": "",
+        "imgurl": "/img/forcetriad-bipolar-resection-cords-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The ForceTriad™ reusable bipolar resection cord is compatible with the ForceTriad™ energy platform.",
+        "deschead": "ForceTriad™ bipolar resection cord",
+        "description": "The ForceTriad™ reusable bipolar resection cord is compatible with the ForceTriad™ energy platform.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The ForceTriad™ reusable bipolar resection cord is compatible with the ForceTriad™ energy platform."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82142,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Accessories",
+        "path": "/products/medtronic/electrosurgical-accessories",
+        "title": "ForceTriad™ bipolar adapter",
+        "slug": "forcetriad-bipolar-resection-cord",
+        "url": "",
+        "imgurl": "/img/valleylab-bipolar-adapter-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The ForceTriad™ bipolar adapter allows connection of bipolar accessory cords with standard dual-pin connector to our energy platform.",
+        "deschead": "ForceTriad™ bipolar adapter",
+        "description": "The ForceTriad™ bipolar adapter allows connection of bipolar accessory cords with standard dual-pin connector to our energy platform.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The ForceTriad™ bipolar adapter allows connection of bipolar accessory cords with standard dual-pin connector to our energy platform."
+                ]
+            }
+        }
     }
 ]
