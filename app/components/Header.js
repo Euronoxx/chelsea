@@ -4,8 +4,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import '../globals.css';
 import Image from 'next/image';
+import { usePathname } from "next/navigation";
 
 const Header = () => {
+
+    const path = usePathname();
+
     return (
         <>
         <Container fluid className="topbar d-none d-md-block">
@@ -28,10 +32,10 @@ const Header = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mx-auto">
-                        <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="/about-us">About Us</Nav.Link>
-                        <Nav.Link href="/products">Products</Nav.Link>
-                        <Nav.Link href="/contact">Contact</Nav.Link>
+                        <Nav.Link href="/" className={`${path === '/' ? 'acmenu' : ''}`}>Home</Nav.Link>
+                        <Nav.Link href="/about-us" className={`${path === '/about-us' ? 'acmenu' : ''}`}>About Us</Nav.Link>
+                        <Nav.Link href="/products" className={`${path === '/products' ? 'acmenu' : ''}`}>Products</Nav.Link>
+                        <Nav.Link href="/contact" className={`${path === '/contact' ? 'acmenu' : ''}`}>Contact</Nav.Link>
                     </Nav>
                     {/* <Form className="d-flex">
                         <Form.Control type="search" placeholder="Search" className="me-2" aria-label="Search" />
