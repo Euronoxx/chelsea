@@ -6,8 +6,9 @@ import Brands from '../data/brands.json';
 
 const Accordian = () => {
 
-    const menucolor = (cat) => {
-        var pathname = usePathname();
+    const pathname = usePathname();
+
+    const menucolor = (cat, pathname) => {
         var catpath = pathname.split("/");
         var category = cat.replace(/\s+/g, '-').toLowerCase();
         if (category === catpath[3]) {
@@ -31,7 +32,7 @@ const Accordian = () => {
                     <AccordionHeader>{item.name}</AccordionHeader>
                     <AccordionBody>
                         {item.categories.map((cat, index) => (
-                            <Link key={`${index}`} href={generatePath(item.name, cat)} className={`d-block py-1 accordianmenu ${menucolor(cat)}`}>{cat}</Link>
+                            <Link key={`${index}`} href={generatePath(item.name, cat)} className={`d-block py-1 accordianmenu ${menucolor(cat, pathname)}`}>{cat}</Link>
                         ))}
                     </AccordionBody>
                 </AccordionItem>
