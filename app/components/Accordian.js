@@ -1,11 +1,23 @@
 "use client"
 import { Accordion, AccordionBody, AccordionHeader, AccordionItem } from "react-bootstrap";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import Brands from '../data/brands.json';
 
 const Accordian = () => {
 
-    function generatePath (brand, cat) {
+    const menucolor = (cat) => {
+        var pathname = usePathname();
+        var catpath = pathname.split("/");
+        var category = cat.replace(/\s+/g, '-').toLowerCase();
+        if (category === catpath[3]) {
+            return 'acmenu';
+        } else {
+            return false;
+        }
+    }
+
+    const generatePath = (brand, cat) => {
         var strbrand = brand.replace(/\s+/g, '-').toLowerCase();
         var strcat = cat.replace(/\s+/g, '-').toLowerCase();
         var path = '/products/' + strbrand + '/' + strcat;
@@ -19,7 +31,7 @@ const Accordian = () => {
                     <AccordionHeader>{item.name}</AccordionHeader>
                     <AccordionBody>
                         {item.categories.map((cat, index) => (
-                            <Link key={`${index}`} href={generatePath(item.name, cat)} className="d-block py-1 accordianmenu">{cat}</Link>
+                            <Link key={`${index}`} href={generatePath(item.name, cat)} className={`d-block py-1 accordianmenu ${menucolor(cat)}`}>{cat}</Link>
                         ))}
                     </AccordionBody>
                 </AccordionItem>
