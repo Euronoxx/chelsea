@@ -700,5 +700,93 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82143,
+        "brand": "Medtronic",
+        "category": "Laparoscopic Access Instruments",
+        "path": "/products/medtronic/laparoscopic-access-instruments",
+        "title": "Endo Mini-Shears™ instrument",
+        "slug": "endo-mini-shears-instrument",
+        "url": "",
+        "imgurl": "/img/endo-mini-shears-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Endo Mini-Shears™ instrument is intended for use in a variety of endoscopic, gynecologic, and general laparoscopic procedures.",
+        "deschead": "Endo Mini-Shears™ instrument",
+        "description": "The Endo Mini-Shears™ with monopolar cautery are designed for introduction and use through all appropriately sized Medtronic™ trocar sleeves or larger sized trocar sleeves with the use of a converter.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Endo Mini-Shears™ with monopolar cautery are designed for introduction and use through all appropriately sized Medtronic™ trocar sleeves or larger sized trocar sleeves with the use of a converter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82144,
+        "brand": "Medtronic",
+        "category": "Laparoscopic Access Instruments",
+        "path": "/products/medtronic/laparoscopic-access-instruments",
+        "title": "Endo Sciz™ instrument",
+        "slug": "endo-sciz-instrument",
+        "url": "",
+        "imgurl": "/img/endo-sciz-instrument-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Endo Sciz™ instrument is used in general, thoracic, gynecologic, urologic, and endoscopic procedures for mobilizing and transecting tissue.",
+        "deschead": "Endo Sciz™ instrument",
+        "description": "The Endo Sciz™ instrument is used in general, thoracic, gynecologic, urologic, and endoscopic procedures for mobilizing and transecting tissue.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Endo Sciz™ instrument is used in general, thoracic, gynecologic, urologic, and endoscopic procedures for mobilizing and transecting tissue."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82145,
+        "brand": "Medtronic",
+        "category": "Laparoscopic Access Instruments",
+        "path": "/products/medtronic/laparoscopic-access-instruments",
+        "title": "Endo Dissect™ instrument",
+        "slug": "endo-dissect-instrument",
+        "url": "",
+        "imgurl": "/img/endo-dissect-5mm-jaws-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Endo Dissect™ instrument has application in a variety of endoscopic, gynecological, and laparoscopic procedures.",
+        "deschead": "Endo Dissect™ instrument",
+        "description": "The Endo Dissect™ dissector with monopolar cautery is designed for introduction and use through all appropriately sized Medtronic™ trocar sleeves or larger sized trocar sleeves with the use of a converter.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Endo Dissect™ dissector with monopolar cautery is designed for introduction and use through all appropriately sized Medtronic™ trocar sleeves or larger sized trocar sleeves with the use of a converter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82146,
+        "brand": "Medtronic",
+        "category": "Laparoscopic Access Instruments",
+        "path": "/products/medtronic/laparoscopic-access-instruments",
+        "title": "Endo Shears™ instrument",
+        "slug": "endo-shears-instrument",
+        "url": "",
+        "imgurl": "/img/endo-shears-short-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Endo Shears™ instrument is used in gynecologic, general, and endoscopic procedures for the mobilization and transection of tissue.",
+        "deschead": "Endo Shears™ instrument",
+        "description": "The Endo Shears™ instrument is used in gynecologic, general, and endoscopic procedures for the mobilization and transection of tissue.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Endo Shears™ instrument is used in gynecologic, general, and endoscopic procedures for the mobilization and transection of tissue."
+                ]
+            }
+        }
     }
 ]
