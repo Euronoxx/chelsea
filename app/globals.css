@@ -184,6 +184,10 @@ a {
   text-decoration: none;
   color: #898989;
 }
+.acmenu {
+  color: #00afef !important;
+  font-weight: 600;
+}
 
 /* CSS for mobile window */
 @media (max-width: 600px) {
