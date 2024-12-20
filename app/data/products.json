@@ -788,5 +788,42 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82147,
+        "brand": "Koning Corporation",
+        "category": "Koning Breast Imaging",
+        "path": "/products/koning-corporation/koning-breast-imaging",
+        "title": "Koning Vera Breast Cancer CT Scanner",
+        "slug": "koning-breast-cancer-ct-scanner",
+        "url": "",
+        "imgurl": "/img/koning-breast-imager.webp",
+        "videourl": "",
+        "shortdesc": "For the First time in Breast Imaging History, KBCT has Introduced Co- Registration in Multiple Planes using TRUE 3D Volumetric Imaging",
+        "deschead": "Koning Benefits",
+        "description": "Current Mammogram Techniques are Falling Short of Expectations. With Documented Limitations, it is absurd that more Steps havent been taken to Mitigate these Issues. The benefits of Koning Breast CT are evident; KBCT rotates 360 around the Breast Acquiring a True Isotropic 3D dataset in 7 seconds.",
+        "features": {
+            "ftr-1": {
+                "name": "Other Benefits Include:",
+                "ftrvals": [
+                    "Compelling Economics",
+                    "Higher Throughput",
+                    "High Quality, True Isotropic 3D imaging giving you Reliable Exam Results",
+                    "Ability to Perform Biopsies without the need for Multiple Devices Capital Equipment Efficiency-Replaces",
+                    "Small Footprint, Limited Facility Modification",
+                    "Superior Detection Capabilities"
+                ]
+            },
+            "ftr-2": {
+                "name": "Current Limitations of FFDM And DBT",
+                "ftrvals": [
+                    "Breast Compression (Inherently excludes chest wall)",
+                    "Compression Artifacts",
+                    "Ambiguity of Distribution",
+                    "Measurement Inaccuracies",
+                    "Difficulty in Defining Extent of Disease Poor Spatial Representation of ROI"
+                ]
+            }
+        }
     }
 ]
