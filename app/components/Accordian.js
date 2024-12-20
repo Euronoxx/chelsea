@@ -3,10 +3,13 @@ import { Accordion, AccordionBody, AccordionHeader, AccordionItem } from "react-
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Brands from '../data/brands.json';
+import { useState } from "react";
 
 const Accordian = () => {
 
     const pathname = usePathname();
+
+    const [evKey, setEvKey] = useState(0);
 
     const menucolor = (cat, pathname) => {
         var catpath = pathname.split("/");
@@ -26,7 +29,7 @@ const Accordian = () => {
     }
 
     return (
-        <Accordion defaultActiveKey="0" flush>
+        <Accordion defaultActiveKey={`${evKey}`} flush>
             {Brands.map((item, index) => (
                 <AccordionItem key={`${index}`} eventKey={`${index}`}>
                     <AccordionHeader>{item.name}</AccordionHeader>

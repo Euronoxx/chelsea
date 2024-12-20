@@ -19,7 +19,7 @@ const CategoryPage = ({paramUrl}) => {
                 <Col md={3}>
                     <Accordian />
                 </Col>
-                <Col md={9} className="d-flex">
+                <Col md={9}>
                     <Row>
                         {products.filter(item => item.category === genstr(paramUrl)).map(item => (
                             <Col md={4} key={item.id}>

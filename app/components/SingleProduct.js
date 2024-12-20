@@ -36,7 +36,7 @@ const SingleProduct = ({paramUrl}) => {
                         </div>
                     );
                 })}
-                <Button variant="outline-success" size="lg" className="my-5" href={product.path}><i class="bi bi-arrow-left"></i> {product.category}</Button>
+                <Button variant="outline-success" size="lg" className="my-5" href={product.path}><i className="bi bi-arrow-left"></i> {product.category}</Button>
                 </div>
             ))}
         </Container>

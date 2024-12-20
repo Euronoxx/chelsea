@@ -188,6 +188,21 @@ a {
   color: #00afef !important;
   font-weight: 600;
 }
+.bgblue {
+  background-color: #00afef;
+}
+.bannertxt {
+  font-size: 20px;
+}
+.txtwhite {
+  color: #fff;
+}
+.certbg {
+  background-image: url('/img/certbg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 
 /* CSS for mobile window */
 @media (max-width: 600px) {
