@@ -20,7 +20,7 @@ const ContactCard = () => {
                         <CardBody>
                             <h3>Visit</h3>
                             <p>Goma Niwas,<br />Chakkar, Shimla,<br />Himachal Pradesh 171005</p>
-                            <Button variant="outline-light" className="mt-5">VIEW ON MAP</Button>
+                            <Button variant="outline-light" className="mt-5" href="https://maps.app.goo.gl/Ga6RJbTTqpdeMBBp6" target="_blank">VIEW ON MAP</Button>
                         </CardBody>
                     </Card>
                 </Col>
