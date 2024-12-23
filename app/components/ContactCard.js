@@ -9,9 +9,9 @@ const ContactCard = () => {
                     <Card className="bluecard mb-4">
                         <CardBody>
                             <h3>Contact</h3>
-                            <p>Call to us<br />if you have any questions</p>
+                            <p>Call us<br />if you have any questions</p>
                             <h4>+91-86288-00023</h4>
-                            <Button variant="outline-light" size="lg" className="mt-5">CONTACT</Button>
+                            <Button variant="outline-light" className="mt-5" href="https://wa.me/918628800023" target="_blank">CONTACT US ON WHATSAPP <i className="bi bi-whatsapp"></i></Button>
                         </CardBody>
                     </Card>
                 </Col>
@@ -20,7 +20,7 @@ const ContactCard = () => {
                         <CardBody>
                             <h3>Visit</h3>
                             <p>Goma Niwas,<br />Chakkar, Shimla,<br />Himachal Pradesh 171005</p>
-                            <Button variant="outline-light" size="lg" className="mt-5">VIEW ON MAP</Button>
+                            <Button variant="outline-light" className="mt-5">VIEW ON MAP</Button>
                         </CardBody>
                     </Card>
                 </Col>

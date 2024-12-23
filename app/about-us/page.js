@@ -6,6 +6,7 @@ import AboutWorkingStyle from "../components/AboutWokingStyle";
 import ContactCard from "../components/ContactCard";
 import CertSection from "../components/Certsec";
 import ProfileSec from "../components/ProfileSec";
+import ProudToServe from "../components/ProudToServe";
 
 const AboutUs = () => {
     return (
@@ -15,6 +16,7 @@ const AboutUs = () => {
         <AboutWorkingStyle />
         <CertSection />
         <ProfileSec />
+        <ProudToServe />
         <ContactCard />
         <Footer />
         </>

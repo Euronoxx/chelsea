@@ -7,6 +7,7 @@ import BlueCounter from "./components/BlueCounter";
 import Footer from "./components/Footer";
 import ClientStory from "./components/ClientStory";
 import ContactCard from "./components/ContactCard";
+import ProudToServe from "./components/ProudToServe";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
     <AboutUs />
     <BlueCounter />
     <ClientStory />
+    <ProudToServe />
     <ContactCard />
     <Footer />
     </>
