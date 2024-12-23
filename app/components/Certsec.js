@@ -8,10 +8,10 @@ const CertSection = () => {
                 <h1 className="text-center txtwhite py-3">Certifications</h1>
                 <Row className="justify-content-md-center">
                     <Col md={9}>
-                        <div className="d-flex gap-5 justify-content-center d-none d-sm-none d-md-flex py-3">
-                            <Image src="/img/cert1.png" fluid alt="Cert of Compliance" />
-                            <Image src="/img/cert2.png" fluid alt="Cert of Compliance" />
-                            <Image src="/img/cert3.png" fluid alt="Cert of Compliance" />
+                        <div className="flex-row justify-content-center py-3 flex-sm-column">
+                            <Image src="/img/cert1.png" className="mb-3 px-2" fluid alt="Cert of Compliance" />
+                            <Image src="/img/cert2.png" className="mb-3 px-2" fluid alt="Cert of Compliance" />
+                            <Image src="/img/cert3.png" className="mb-3 px-2" fluid alt="Cert of Compliance" />
                         </div>
                     </Col>
                 </Row>
