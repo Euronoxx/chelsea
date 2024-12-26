@@ -38,9 +38,9 @@ const Footer = () => {
                     <Col md={3} sm={12} xs={12}>
                         <div className="footermenu">
                             <h4>SOCIAL</h4>
-                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-facebook"></i></span>
-                            <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-twitter"></i></span>
-                            <span style={{color:'#00AFEF',fontSize:'28px'}}><i className="bi bi-instagram"></i></span>
+                            <Link href={"https://www.facebook.com/ChelseaEnterprises"} target="_blank"><span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-facebook"></i></span></Link>
+                            {/* <span style={{color:'#00AFEF',fontSize:'28px',marginRight:'16px'}}><i className="bi bi-twitter"></i></span> */}
+                            <Link href={"https://www.instagram.com/chelseaenterprises/"} target="_blank"><span style={{color:'#00AFEF',fontSize:'28px'}}><i className="bi bi-instagram"></i></span></Link>
                         </div>
                     </Col>
                 </Row>

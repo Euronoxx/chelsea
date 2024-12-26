@@ -19,9 +19,9 @@ const Header = () => {
                     <i className="bi bi-telephone"></i> +91-86288-00023 <i className="bi bi-envelope" style={{marginLeft:'12px'}}></i> contact@the-chelsea.com
                 </div>
                 <div className="d-flex ms-auto" style={{gap:'22px'}}>
-                    <Link href={"https://www.instagram.com/chelseaenterprises/"} target='_blank'><i className="bi bi-instagram"></i></Link>
+                    <Link href={"https://www.instagram.com/chelseaenterprises/"} target='_blank' style={{color:'#fff'}}><i className="bi bi-instagram"></i></Link>
                     {/* <i className="bi bi-twitter"></i> */}
-                    <Link href={'https://www.facebook.com/ChelseaEnterprises'} target='_blank'><i className="bi bi-facebook"></i></Link>
+                    <Link href={'https://www.facebook.com/ChelseaEnterprises'} target='_blank' style={{color:'#fff'}}><i className="bi bi-facebook"></i></Link>
                 </div>
             </Container>
         </Container>
