@@ -825,5 +825,602 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82148,
+        "brand": "Medtronic",
+        "category": "Pain Management",
+        "path": "/products/medtronic/pain-management",
+        "title": "Accurian™ RF ablation platform",
+        "slug": "pm-accurian-rf-ablation-platform",
+        "url": "",
+        "imgurl": "/img/accurian-generator-prod.jpg",
+        "videourl": "",
+        "shortdesc": "Accurian™ is a radiofrequency (RF) nerve tissue ablation platform that delivers consistent and predictable lesions and smart features for ease of use.",
+        "deschead": "RF ablation platform designed from the ground up",
+        "description": "The Accurian™ radiofrequency (RF) ablation platform combines proprietary hardware design and quad core processing, resulting in sophisticated algorithms that manage power and control temperature during ablation surgery. Together, enhanced and standard ablation procedures create a comprehensive range of lesion shapes, sizes, and volumes — predictably and consistently. Extensively tested for lasting reliability, the Accurian™ ablation therapy platform is upgrade-ready for the future.",
+        "features": {
+            "ftr-1": {
+                "name": "Form consistent and predictable lesions across all channels",
+                "ftrvals": [
+                    "The ultra-responsive proprietary algorithm accurately regulates temperature — resulting in consistent and predictable lesion formation during the entire procedure on all active channels.",
+                    "The SmartStart™ algorithm strategically distributes power to ensure that all channels reach and maintain the set temperature — reducing the risk of underpowered scenarios."
+                ]
+            },
+            "ftr-2": {
+                "name": "Smart probes",
+                "ftrvals": [
+                    "On-screen identification helps you easily troubleshoot a specific channel",
+                    "Chip-enhanced probes",
+                    "On-screen tutorials"
+                ]
+            },
+            "ftr-3": {
+                "name": "Manage four channels independently",
+                "ftrvals": [
+                    "Channel-specific start/stop/restart, temperature control and timer control mean you can manage four ablations independently — even mid-procedure.",
+                    "Advanced power management allows four channels to start simultaneously — independently or staggered."
+                ]
+            },
+            "ftr-4": {
+                "name": "Boost efficiency with smart features",
+                "ftrvals": [
+                    "PDF procedure and reusable probe usage reports",
+                    "14-ft combined hub and probe cables",
+                    "Ability to self-test and self-calibrate with each generator start, reducing the need for maintenance"
+                ]
+            },
+            "ftr-5": {
+                "name": "Technology features",
+                "ftrvals": [
+                    "Easily upgrade software via USB to minimize downtime",
+                    "High-resolution 16:9 touchscreen",
+                    "HDMI port for secondary monitor",
+                    "Intuitive and easy-to-use design",
+                    "Room for up to 10 treatment or physician profiles"
+                ]
+            },
+            "ftr-6": {
+                "name": "Accurian™ enhanced RF",
+                "ftrvals": [
+                    "Internally cooled probes create larger, spherical lesions (compared to standard lesions) with greater distal projection.",
+                    "Enhanced probes offer increased flexibility in approach angle (as much as 45% of lesion volume is projected distally to probe tip).",
+                    "Add cooling pump for enhanced procedures with internally cooled probes."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82149,
+        "brand": "Medtronic",
+        "category": "Smoke Evacuation Systems And Accessories",
+        "path": "/products/medtronic/smoke-evacuation-systems-and-accessories",
+        "title": "Valleylab™ smoke evacuation pencil",
+        "slug": "valleylab-smoke-evacuation-pencil",
+        "url": "",
+        "imgurl": "/img/valleylab-smoke-evacuator-pencil-right-prod.jpg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ smoke evacuation pencils are available in multiple formats to fit your specific needs.",
+        "deschead": "Smoke Evacuation System and Accessories",
+        "description": "Smoke in the surgical field can obscure your vision, delay procedures, and pose risks to your team. Each Valleylab™ smoke evacuation pencil model offers the flexibility to facilitate access and visibility at the surgical site for your open procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ smoke evacuation pencil",
+                "ftrvals": [
+                    "The Valleylab™ smoke evacuation pencil (button switch) with telescoping cannula provides visibility in the surgical site."
+                ]
+            },
+            "ftr-2": {
+                "name": "Valleylab™ smoke evacuation rocker switch pencil",
+                "ftrvals": [
+                    "The Valleylab™ smoke evacuation rocker switch pencil captures smoke with its narrow profile while provideing a balanced and secure grip."
+                ]
+            },
+            "ftr-3": {
+                "name": "Valleylab™ telescoping smoke evacuation rocker switch pencil",
+                "ftrvals": [
+                    "The Valleylab™ telescoping smoke evacuation pencil offers an independently telescoping smoke nozzle and electrode"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82150,
+        "brand": "Medtronic",
+        "category": "Smoke Evacuation Systems And Accessories",
+        "path": "/products/medtronic/smoke-evacuation-systems-and-accessories",
+        "title": "RapidVac™ smoke evacuation system",
+        "slug": "rapidvac-smoke-evacuation-system",
+        "url": "",
+        "imgurl": "/img/se4010-rapidvac-smoke-evacuator-prod-a.jpg",
+        "videourl": "",
+        "shortdesc": "The RapidVac™ smoke evacuation system captures and filters surgical smoke to remove odor, particulates, and other byproducts of electrosurgery procedures.",
+        "deschead": "Easy, effective, economical, and quiet smoke evacuation",
+        "description": "The RapidVac™ smoke evacuation system is designed to effectively capture and filter surgical smoke to remove odor, particulates, and other potentially hazardous byproducts of electrosurgery procedures. The system works with the Valleylab™ FT10 energy platform, Valleylab™ FX8 energy platform, and other Medtronic electrosurgical generators. Optional accessories are available to enable other electrosurgical generators to synchronize with the RapidVac™ system.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The RapidVac™ smoke evacuation system consists of multiple components, all working together to capture and filter surgical smoke during procedures."
+                ]
+            },
+            "ftr-2": {
+                "name": "RapidVac™ smoke evacuator",
+                "ftrvals": [
+                    "The RapidVac™ smoke evacuator works with the Medtronic electrosurgical generator to evacuate electrosurgical smoke and laser plume."
+                ]
+            },
+            "ftr-3": {
+                "name": "RapidVac™ ULPA filter",
+                "ftrvals": [
+                    "The RapidVac™ ULPA filter is a four-stage smoke evacuation filter."
+                ]
+            },
+            "ftr-4": {
+                "name": "RapidVac™ interlink cable",
+                "ftrvals": [
+                    "The RapidVac™ interlink cable synchronizes the RapidVac™ system to the Medtronic generator."
+                ]
+            },
+            "ftr-5": {
+                "name": "RapidVac™ remote switch activator",
+                "ftrvals": [
+                    "The RapidVac™ remote switch activator synchronizes the RapidVac™ smoke evacuator system to a Medtronic generator by recognizing the cut and coag current that is being emitted."
+                ]
+            },
+            "ftr-6": {
+                "name": "RapidVac™ footswitch",
+                "ftrvals": [
+                    "The RapidVac™ smoke evacuator footswitch is used to activate the RapidVac™ smoke evacuator."
+                ]
+            },
+            "ftr-7": {
+                "name": "RapidVac™ smoke tubing",
+                "ftrvals": [
+                    "RapidVac™ smoke tubing enables controlled smoke evacuation when connected to the RapidVac™ ULPA filter."
+                ]
+            },
+            "ftr-8": {
+                "name": "RapidVac™ smoke wand",
+                "ftrvals": [
+                    "The RapidVac™ smoke wand is used in the evacuation of laser plume."
+                ]
+            },
+            "ftr-9": {
+                "name": "RapidVac™ fluid trap",
+                "ftrvals": [
+                    "The RapidVac™ fluid trap is designed to capture fluid that is inadvertently suctioned by the smoke capture device. This prevents fluid from reaching the filter. The RVFT10 connects to the 7/8 inch port on the RapidVac™ ULPA filter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82151,
+        "brand": "Medtronic",
+        "category": "Smoke Evacuation Systems And Accessories",
+        "path": "/products/medtronic/smoke-evacuation-systems-and-accessories",
+        "title": "Valleylab™ SM smoke management pencil",
+        "slug": "valleylab-sm-smoke-management-pencil",
+        "url": "",
+        "imgurl": "/img/valleylab-smoke-pencil-angle-right-zoom-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ SM smoke management pencil is a slim, integrated smoke pencil designed to remove surgical smoke plume during electrosurgery.",
+        "deschead": "Valleylab™ SM smoke management pencil",
+        "description": "The Valleylab™ SM smoke management pencil provides smoke capture, in a lightweight ergonomic offering. This pencil allows surgeons to be confident they are effectively addressing surgical smoke at the source, protecting staff and patients alike.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ SM pencil",
+                "ftrvals": [
+                    "Striking the right balance between size, ergonomics, and smoke capture — the Valleylab™ SM pencil delivers superior air flow‡ and smoke removal§ in a compact, narrow design"
+                ]
+            },
+            "ftr-2": {
+                "name": "Superior clinical performance",
+                "ftrvals": [
+                    "30% higher air flow",
+                    "More efficient smoke capture"
+                ]
+            },
+            "ftr-3": {
+                "name": "Enhanced ergonomics",
+                "ftrvals": [
+                    "Supports natural hand and wrist movement",
+                    "A lightweight and natural feel"
+                ]
+            },
+            "ftr-4": {
+                "name": "Seamless integration",
+                "ftrvals": [
+                    "Easy set up",
+                    "As natural to use as a standard electrosurgery pencil"
+                ]
+            },
+            "ftr-5": {
+                "name": "360 degrees of freedom",
+                "ftrvals": [
+                    "A 360-degree swivel supports natural hand and wrist movement."
+                ]
+            },
+            "ftr-6": {
+                "name": "Get a grip",
+                "ftrvals": [
+                    "Nonslip buttons are easy to use when you're wearing gloves."
+                ]
+            },
+            "ftr-7": {
+                "name": "A clear vision",
+                "ftrvals": [
+                    "A transparent tip for good visibility at the surgical site"
+                ]
+            },
+            "ftr-8": {
+                "name": "Access granted",
+                "ftrvals": [
+                    "Optimal access to the surgical site"
+                ]
+            },
+            "ftr-9": {
+                "name": "Keep a low profile",
+                "ftrvals": [
+                    "A compact, low-profile design means the Valleylab™ SM pencil fits into your OR environment."
+                ]
+            },
+            "ftr-10": {
+                "name": "Wired for efficiency",
+                "ftrvals": [
+                    "An integrated ESU wire simplifies cord management during your procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82152,
+        "brand": "Medtronic",
+        "category": "Smoke Evacuation Systems And Accessories",
+        "path": "/products/medtronic/smoke-evacuation-systems-and-accessories",
+        "title": "Valleylab™ laparoscopic smoke evacuation system",
+        "slug": "valleylab-laparoscopic-smoke-evacuation-system",
+        "url": "",
+        "imgurl": "/img/sel7010-lapevac-2-edit.jpg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ laparoscopic smoke evacuation system connects to a standard luer-lock trocar and a suction or vacuum unit.",
+        "deschead": "Valleylab™ laparoscopic smoke evacuation system",
+        "description": "The Valleylab™ laparoscopic smoke evacuation system connects to a standard luer-lock trocar and a suction or vacuum unit.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ laparoscopic smoke evacuation system connects to a standard luer-lock trocar and a suction or vacuum unit."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82153,
+        "brand": "Medtronic",
+        "category": "Superficial Vein",
+        "path": "/products/medtronic/superficial-vein",
+        "title": "ClosureFast RFA ablation system",
+        "slug": "closurefast-rfa-system",
+        "url": "",
+        "imgurl": "/img/closurefast-rfa-system-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The ClosureFast™ procedure uses radiofrequency energy to treat patients with superficial vein disease.",
+        "deschead": "Deliver lasting results with gap-free thermal ablation",
+        "description": "The ClosureFast™ procedure features a patented overlap of 0.5 cm at each thermal treatment segment, eliminating gaps between segments ― for lasting vein closure.",
+        "features": {
+            "ftr-1": {
+                "name": "ClosureFast™ radiofrequency ablation catheter",
+                "ftrvals": [
+                    "The ClosureFast™ radiofrequency ablation catheter precisely heats an 8 cm vein segment (or 3 cm for shorter, refluxing vein lengths) in one 20-second interval.",
+                    "The heat provided by the catheter shrinks and collapses the target vein, creating a fibrotic seal and occluding the vessel."
+                ]
+            },
+            "ftr-2": {
+                "name": "ClosureFast™ radiofrequency stylet",
+                "ftrvals": [
+                    "The ClosureRFS™ radiofrequency stylet is an intravascular ablation device specifically intended for the treatment of incompetent perforator and tributary veins.",
+                    "This minimally invasive outpatient procedure leaves minimal scarring at the puncture site and can be either the primary treatment or an adjunct treatment using the ClosureFast™ radiofrequency ablation catheter."
+                ]
+            },
+            "ftr-3": {
+                "name": "ClosureFast™ radiofrequency generator",
+                "ftrvals": [
+                    "The ClosureRFG™ generator delivers radiofrequency energy to the ClosureFast™ radiofrequency ablation catheter and the ClosureRFS™ radiofrequency stylet for the effective treatment of CVI.",
+                    "The controlled feedback mechanism monitors intravascular heat parameters in real time to automatically regulate therapeutic power."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82154,
+        "brand": "Medtronic",
+        "category": "Surgical Energy Systems",
+        "path": "/products/medtronic/surgical-energy-systems",
+        "title": "Affera™ mapping system",
+        "slug": "affera-mapping-system",
+        "url": "",
+        "imgurl": "/img/affera-mapping-system-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Affera™ mapping system with Prism-1 software is designed to automate, inform, and optimize the ablation procedure using innovative clinical tools.",
+        "deschead": "Affera™ mapping system",
+        "description": "Built with user experience in mind, the Affera™ mapping system addresses the most common needs of today's electrophysiologists with elegant features and an innovative suite of software functionalities to enhance clinical workflows.",
+        "features": {
+            "ftr-1": {
+                "name": "Automatic and continuous collection",
+                "ftrvals": [
+                    "Collect everything; display the rhythm you want to see."
+                ]
+            },
+            "ftr-2": {
+                "name": "Fast remap and cloning",
+                "ftrvals": [
+                    "Start a new map quickly and efficiently while maintaining the active map's geometry, chamber, rhythm, window of interest, or even EGM data."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82155,
+        "brand": "Medtronic",
+        "category": "Surgical Sponge Detection Systems",
+        "path": "/products/medtronic/surgical-sponge-detection-systems",
+        "title": "Situate™ detection system X",
+        "slug": "situate-detection-system-x",
+        "url": "",
+        "imgurl": "/img/mdt-situate-system-x-complete-no-extremity.jpg",
+        "videourl": "",
+        "shortdesc": "The Situate™ detection system X is designed to be used as an adjunct technology to manually counting surgical sponges.",
+        "deschead": "Surgical Sponge Detection Systems",
+        "description": "The Situate™ detection system X uses a low-energy radiofrequency (RF) signal to detect surgical premium cotton (gauze, sponges, and towels) left in or around the patient within the surgical field.",
+        "features": {
+            "ftr-1": {
+                "name": "Situate™ detection console",
+                "ftrvals": [
+                    "The console and user interface provide on-screen prompts that guide workflow and generate unique confirmation codes of each scan for convenient EMR entry — during the procedure. This allows OR staff to reconcile any inaccuracies before the case is closed."
+                ]
+            },
+            "ftr-2": {
+                "name": "Situate™ body scanner lite",
+                "ftrvals": [
+                    "The Situate™ body scanner pad, containing six evenly distributed radiolucent antennae, is placed under the patient. It identifies Situate™ detection system tagged sponges."
+                ]
+            },
+            "ftr-3": {
+                "name": "Situate™ room scanner",
+                "ftrvals": [
+                    "Situate™ room scanner is a handheld, motion-based device that locates missing sponges beyond the sterile field3 — in linens, trash, and anywhere else they may end up. The wand functions as both an antenna and receiver to look for and detect Situate™ premium cotton."
+                ]
+            },
+            "ftr-4": {
+                "name": "Situate™ premium cotton",
+                "ftrvals": [
+                    "Situate™ premium tagged cotton are single-use cotton disposables with an attached RF tag that must be used with the Situate™ detection system X. When activated by magnetic impulses from the scanning devices, the tag resonates a signal that allows for the detection of these cotton disposables."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82156,
+        "brand": "Medtronic",
+        "category": "Surgical Sponge Detection Systems",
+        "path": "/products/medtronic/surgical-sponge-detection-systems",
+        "title": "Situate™ delivery system",
+        "slug": "situate-delivery-system",
+        "url": "",
+        "imgurl": "/img/mdt-situate-delivery-stand-prod.jpg",
+        "videourl": "",
+        "shortdesc": "The Situate™ delivery system is a delivery room safety tool designed to detect missing tagged sponges.",
+        "deschead": "Protection against retained sponges for new mothers. Peace of mind for you.",
+        "description": "The Situate™ delivery system is an adjunct technology to manual counting. It addresses retained sponge prevention in one of the most vital arenas in modern medicine, detecting missing tagged sponges in patients and the delivery room.",
+        "features": {
+            "ftr-1": {
+                "name": "Situate™ delivery console",
+                "ftrvals": [
+                    "The user-friendly interface of the Situate™ delivery console offers on-screen prompts to ensure compliance and clearly indicates the presence or absence of remaining sponges."
+                ]
+            },
+            "ftr-2": {
+                "name": "Situate™ delivery scanner",
+                "ftrvals": [
+                    "The nonintrusive, handheld Situate™ delivery scanner is designed to enable post-delivery vaginal scanning optimized for angle and depth of the birthing canal. The scanner is an adjunct technology to manual counting."
+                ]
+            },
+            "ftr-3": {
+                "name": "Situate™ premium tagged cotton",
+                "ftrvals": [
+                    "The Situate™ system uses sensors to transmit nonionizing, low frequency radio waves to detect tagged cotton. When the tagged cotton is stimulated by the scanner's signal, it transmits its own signal back to the console, instantly identifying its presence."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82157,
+        "brand": "Medtronic",
+        "category": "Ultrasonic Dissection Products",
+        "path": "/products/medtronic/ultrasonic-dissection-products",
+        "title": "Sonicision™ ultrasonic dissection device",
+        "slug": "sonicision-7-curved-jaw-cordless-ultrasonic-dissection-device",
+        "url": "",
+        "imgurl": "/img/scd7a26-sonicision7-rear-prod-3b.jpg",
+        "videourl": "",
+        "shortdesc": "The Sonicision™ 7 curved jaw ultrasonic dissector is a cordless device capable of coagulating and dissecting vessels.",
+        "deschead": "Experience cordless freedom with the Sonicision™ 7 curved jaw ultrasonic device",
+        "description": "The tapered jaw design of the Sonicision™ 7 curved jaw device provides the access and visibility you need to advance care. Get precise access to tissue planes† and access in tight spaces. Visualize target structures‡ and the tips of the device throughout your procedures. Discover its ability to follow curved anatomical structures.",
+        "features": {
+            "ftr-1": {
+                "name": "Effortless efficiency",
+                "ftrvals": [
+                    "Dual-mode energy activation button provides more efficiency in surgical procedures than multi-button activation",
+                    "7 mm vessel coagulation capability improves surgical efficiency over devices that coagulate vessels up to 5 mm",
+                    "Easy assembly enables procedural efficiency, allowing nurses to have the device ready before the surgeon and patient are in the operating room"
+                ]
+            },
+            "ftr-2": {
+                "name": "The essence of ease",
+                "ftrvals": [
+                    "Dual-mode energy control in one button improves procedural focus",
+                    "Design facilitates comfortable use throughout a variety of procedures",
+                    "Integrated torque wrench simplifies setup"
+                ]
+            },
+            "ftr-3": {
+                "name": "The power of portability",
+                "ftrvals": [
+                    "Enables more natural movement",
+                    "Makes instrument exchanges easier",
+                    "Saves space in the OR with a smaller footprint"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82158,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure™ XP Maryland jaw sealer-divider",
+        "slug": "ligasure-xp-maryland-jaw-sealer-divider-nano-coating",
+        "url": "",
+        "imgurl": "/img/ligasure-xp-maryland-jaw-1step-latching-angled.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure™ XP Maryland jaw device offers next-level vessel sealing technology - including latching handles and one-step sealing.",
+        "deschead": "Performance advantages that give you the edge",
+        "description": "The LigaSure™ XP Maryland jaw sealer-divider is advancing surgical energy to meet the evolving needs of surgeons and their patients. With the LigaSure™ XP Maryland jaw device, you get all the advantages of the LigaSure™ technology you've come to love, plus additional next-level benefits.",
+        "features": {
+            "ftr-1": {
+                "name": "Take vessel sealing to the next level",
+                "ftrvals": [
+                    "Offering one-step or latching handle designs, LigaSure™ XP Maryland jaw devices provide surgeons new levels of performance precision and procedural efficiency in vessel sealing."
+                ]
+            },
+            "ftr-2": {
+                "name": "Increased jaw length and optimal force to manage thick tissue",
+                "ftrvals": [
+                    "Longer seal plate with increased cut length",
+                    "Larger jaw opening (aperture)",
+                    "Higher jaw force for increased tissue compression when sealing and manipulating tissue",
+                    "Nano-coated jaws reduce tissue sticking"
+                ]
+            },
+            "ftr-3": {
+                "name": "Designed for more precise dissection",
+                "ftrvals": [
+                    "360° continuous jaw rotation",
+                    "Energized tissue dissection to tip of device",
+                    "Blade travels close to device tip",
+                    "Curved, tapered jaw profile for fine dissection",
+                    "Jaw design makes it easier to access tissue planes"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82159,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure™ exact dissector",
+        "slug": "ligasure-exact-dissector",
+        "url": "",
+        "imgurl": "/img/lf2019rtopen-shdw.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure™ exact dissector is a surgical dissection device with nonstick nano-coated jaws.",
+        "deschead": "LigaSure™ exact dissector",
+        "description": "The LigaSure™ exact dissector offers precision and efficiency for better dissection† — with a cool jaw profile1 and enhanced ability to work in tight spaces. Built on reliable LigaSure™ technology, our newest surgical advancement offers faster cooling times1 with superior access and more precise dissection.",
+        "features": {
+            "ftr-1": {
+                "name": "Fine dissection. Balanced handling",
+                "ftrvals": [
+                    "Balanced design that supports activations with either hand",
+                    "Full soft-touch rings",
+                    "Cutting trigger that's aligned with the handle to eliminate interference with wound edge",
+                    "Curved jaw to maximize sight line",
+                    "Slim nonstick nano-coated jaw for precise blunt dissection",
+                    "Optimized length to provide precise control",
+                    "Activation button"
+                ]
+            },
+            "ftr-2": {
+                "name": "Low temperature profile",
+                "ftrvals": [
+                    "Cool down fast for secure and atraumatic tissue grasping",
+                    "Stay cool over multiple activations",
+                    "Higher jaw force for increased tissue compression when sealing and manipulating tissue",
+                    "Nano-coated jaws reduce tissue sticking"
+                ]
+            },
+            "ftr-3": {
+                "name": "Precise performance",
+                "ftrvals": [
+                    "Allows for precision around critical structures",
+                    "Enhances the ability to work in tight spaces",
+                    "Maximizes the line of sight"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82160,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure Atlas™ tissue fusion open instrument",
+        "slug": "ligasure-atlas-tissue-fusion-open-instrument",
+        "url": "",
+        "imgurl": "/img/cv-ls1020-atlas-open-sealer.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure Atlas™ tissue fusion open instrument is a blunt tip vessel sealer and divider, featuring a 20 cm shaft for use in open procedures.",
+        "deschead": "LigaSure Atlas™ tissue fusion open instrument",
+        "description": "The LigaSure Atlas™ tissue fusion open instrument is a blunt tip vessel sealer and divider, featuring a 20 cm shaft for use in open procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "The LigaSure Atlas™ tissue fusion open instrument has the following procedural applications",
+                "ftrvals": [
+                    "Adhesiolysis",
+                    "Abdominal hysterectomy",
+                    "Gastric bypass",
+                    "Colon resection",
+                    "Cystectomy",
+                    "Radical prostatectomy",
+                    "Gastrectomy",
+                    "Splenectomy",
+                    "Salpingo-oophorectomy",
+                    "Nephrectomy"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82161,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure™ Maryland jaw thoracic sealer-divider",
+        "slug": "ligasure-maryland-jaw-thoracic-sealer-divider-nano-coating",
+        "url": "",
+        "imgurl": "/img/ligasure-maryland-jaw-thoracic-device-left-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure™ Maryland jaw thoracic sealer-divider is a multifunctional nano-coated instrument designed for sealing pulmonary veins and arteries.",
+        "deschead": "Reliable vessel-sealing technology — tailored for thoracic surgery",
+        "description": "The LigaSure™ Maryland jaw thoracic sealer/divider is part of our commitment to transforming lung care. It's the first — and only — minimally invasive LigaSure™ device designed for VATS procedures and indicated for sealing pulmonary veins and arteries up to and including 7 mm.",
+        "features": {
+            "ftr-1": {
+                "name": "The multifunctional LigaSure™ Maryland jaw thoracic device complements thoracic procedures by providing",
+                "ftrvals": [
+                    "One-step vessel sealing",
+                    "Enhanced blunt dissection",
+                    "Secure, atraumatic grasping",
+                    "Cold cutting independent of sealing"
+                ]
+            },
+            "ftr-2": {
+                "name": "The LigaSure™ technology difference",
+                "ftrvals": [
+                    "Reliable LigaSure™ vessel-sealing technology drives the LigaSure™ thoracic device. It works by using the body's own collagen and elastin to create a permanent seal that is designed to withstand three times normal pulmonary systolic blood pressure.",
+                    "Plus, LigaSure™ technology eliminates the guesswork — and minimizes thermal spread — by automatically discontinuing energy delivery when the seal cycle is complete."
+                ]
+            }
+        }
     }
 ]
