@@ -7,8 +7,8 @@ const SingleProduct = ({paramUrl}) => {
         <Container className="py-5">
             {Products.filter(product => product.slug === paramUrl).map(product => (
                 <div key={product.id}>
-                <Row>
-                    <Col md={6} sm={12} xs={12}>
+                <Row className="align-items-center">
+                    <Col md={6} sm={12} xs={12} className="text-center">
                         <Image src={`${product.imgurl}`} fluid alt={`${product.title}`} />
                     </Col>
                     <Col md={6} sm={12} xs={12}>

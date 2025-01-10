@@ -1320,7 +1320,7 @@
         "brand": "Medtronic",
         "category": "Vessel Sealing",
         "path": "/products/medtronic/vessel-sealing",
-        "title": "LigaSure™ exact dissector",
+        "title": "LigaSure™ exact surgical dissector",
         "slug": "ligasure-exact-dissector",
         "url": "",
         "imgurl": "/img/lf2019rtopen-shdw.jpg",
@@ -1419,6 +1419,547 @@
                 "ftrvals": [
                     "Reliable LigaSure™ vessel-sealing technology drives the LigaSure™ thoracic device. It works by using the body's own collagen and elastin to create a permanent seal that is designed to withstand three times normal pulmonary systolic blood pressure.",
                     "Plus, LigaSure™ technology eliminates the guesswork — and minimizes thermal spread — by automatically discontinuing energy delivery when the seal cycle is complete."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82162,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure Atlas™ tissue fusion instrument",
+        "slug": "ligasure-atlas-tissue-fusion-laparoscopic-instrument",
+        "url": "",
+        "imgurl": "/img/cv-ls1037-atlas-laparoscopic-sealer.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure Atlas™ tissue fusion instrument is a blunt tip vessel sealer and divider, featuring a 37 cm shaft for use in laparoscopic procedures.",
+        "deschead": "LigaSure Atlas™ tissue fusion laparoscopic instrument",
+        "description": "The LigaSure Atlas™ tissue fusion laparoscopic instrument is a blunt tip vessel sealer and divider that has the following procedural applications",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Adrenalectomy",
+                    "Axillary dissection",
+                    "Gastrectomy",
+                    "Colectomy",
+                    "Nephrectomy",
+                    "Liver resection",
+                    "Splenectomy",
+                    "Whipple"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82163,
+        "brand": "Medtronic",
+        "category": "Vessel Sealing",
+        "path": "/products/medtronic/vessel-sealing",
+        "title": "LigaSure™ retractable L-hook laparoscopic sealer-divider",
+        "slug": "ligasure-retractable-l-hook-laparoscopic-sealer-divider",
+        "url": "",
+        "imgurl": "/img/mdt-lf5644-lo.jpg",
+        "videourl": "",
+        "shortdesc": "The LigaSure™ retractable L-hook laparoscopic sealer-divider combines the functionality of five laparoscopic devices into one versatile instrument.",
+        "deschead": "One instrument. Five functions. Countless benefits.",
+        "description": "In your hands, our energy solutions have been setting the standard of patient care for nearly 50 years. But the challenges of today's healthcare system demand we go further — with technologies that bring even greater efficiency to procedures. That's why we created the LigaSure™ retractable L-hook laparoscopic instrument. The only device of its kind, it delivers the benefits",
+        "features": {
+            "ftr-1": {
+                "name": "Benefits of the LigaSure™ retractable L-hook laparoscopic device",
+                "ftrvals": [
+                    "Surgeons who tested the instrument say the actions to grasp, seal, cut, deploy, and retract the Valleylab™ monopolar L-hook are simple and intuitive.",
+                    "Simply press a lever on the handle to deploy the L-hook — and deliver the precision of Valleylab™ monopolar dissection. When you're ready to switch back to the Maryland jaws, just press the lever to retract the L-hook."
+                ]
+            },
+            "ftr-2": {
+                "name": "The speed of one-step vessel sealing",
+                "ftrvals": [
+                    "Deliver improved access to targeted tissues compared to straight jaw devices — even in tight spaces",
+                    "Provide the ability to follow the curvature of the uterus/stomach",
+                    "Allow for easy skeletonization of vessels"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82164,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ flex RFA energy generator",
+        "slug": "barrx-flex-rfa-energy-generator",
+        "url": "",
+        "imgurl": "/img/barrx-flex-rfa-energy-generator-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ flex RFA energy generator is a bipolar radiofrequency generator designed for use in gastrointestinal (GI) tissue ablation.",
+        "deschead": "The Barrx™ flex RFA energy generator",
+        "description": "The Barrx™ flex RFA energy generator provides the flexibility to choose either the Barrx™ 360 express RFA balloon catheter for larger treatment areas or Barrx™ RFA focal catheters for smaller focal areas.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Barrx™ flex RFA energy generator"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82165,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ RFA cart",
+        "slug": "barrx-rfa-cart",
+        "url": "",
+        "imgurl": "/img/barrx-rfa-cart-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ RFA cart is custom designed to accommodate Barrx™ energy generators, Barrx™ sizing balloons, ablation catheters, and accessories.",
+        "deschead": "TThe Barrx™ RFA cart",
+        "description": "The Barrx™ RFA cart is custom designed to accommodate Barrx™ energy generators, Barrx™ sizing balloons, ablation catheters, and accessories.",
+        "features": {
+            "ftr-1": {
+                "name": "Product storage capacity",
+                "ftrvals": [
+                    "Quantity 18-Barrx™ 360 RFA balloon catheter/360 express RFA balloon catheter",
+                    "Quantity 12-Barrx™ RFA focal catheters or Barrx™ RFA endoscopic guidewire"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82166,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Marinr™ CS decapolar electrode catheter",
+        "slug": "marinr-cs-decapolar-electrode-catheter",
+        "url": "",
+        "imgurl": "/img/marinr-cs-diagnostic-catheter-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Marinr™ CS decapolar electrode catheter is a sterile, single-use catheter designed to map and pace varied cardiac anatomies.",
+        "deschead": "Marinr™ CS decapolar electrode catheter",
+        "description": "The Marinr™ CS catheter is a steerable coronary sinus catheter that features a deflectable tip with a 55 mm reach for advancement into the coronary sinus. It has a 7 Fr braided proximal shaft and 10 electrodes which offer a range of mapping locations.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Marinr™ CS decapolar electrode catheter is a sterile, single-use catheter designed to map and pace varied cardiac anatomies."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82167,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ 90 RFA focal catheter",
+        "slug": "barrx-90-rfa-focal-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-90-rfa-focal-catheter.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ 90 RFA focal catheter is used for primary treatment of short to intermediate segments of Barrett's esophagus or for treatment after ablation.",
+        "deschead": "Barrx™ 90 RFA focal catheter",
+        "description": "The Barrx™ 90 RFA focal catheter enables physicians to provide primary treatment for short and intermediate length segments of non-circumferential Barrett's esophagus. Physicians can also provide secondary treatment after ablation.",
+        "features": {
+            "ftr-1": {
+                "name": "Features of Barrx™ 90 RFA ",
+                "ftrvals": [
+                    "Provides easy introduction into upper GI tract",
+                    "Allows positioning within the esophagus and gastroesophageal junction",
+                    "Provides for direct visualization of electrode during procedure",
+                    "Uses standard endoscopic technique",
+                    "Articulated electrode platform moves in 2-D, left to right and front to back, to ensure tissue contact"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82168,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ 360 express RFA balloon catheter",
+        "slug": "barrx-360-express-rfa-balloon-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-360-express-rfa-balloon-catheter-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ 360 express RFA balloon catheter features a self-adjusting ablation balloon that inflates to the size of the patient's esophagus.",
+        "deschead": "Easy, efficient circumferential ablation",
+        "description": "Eliminate the sizing process during circumferential ablation with the Barrx™ 360 express RFA balloon catheter. This custom-fitting balloon catheter removes the need to choose the right size catheter.",
+        "features": {
+            "ftr-1": {
+                "name": "By automatically inflating to the proper size based on the patient's esophagus, the Barrx™ 360 express RFA balloon catheter makes treatment more efficient:",
+                "ftrvals": [
+                    "Reduces procedure time by up to 20",
+                    "Reduces time under anesthesia for the patient"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82169,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "RF Marinr™ 7 Fr steerable ablation catheter",
+        "slug": "rf-marinr-7-fr-steerable-multi-curve-ablation-catheter",
+        "url": "",
+        "imgurl": "/img/rf-marinr-7-fr-ablation-catheter-handle-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The RF Marinr™ 7 Fr steerable multi-curve ablation catheter provides variable curve sizes and reach in one catheter.",
+        "deschead": "RF Marinr™ 7 Fr steerable multi-curve ablation catheter",
+        "description": "The 7 Fr RF Marinr™ steerable multi-curve ablation catheter adjusts from a small tight curve to a larger reach. Incremental lateral deflection may increase maneuverability within the heart, and side-to-side tip rotation may aid placement in varied anatomies.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The RF Marinr™ 7 Fr steerable multi-curve ablation catheter provides variable curve sizes and reach in one catheter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82170,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ 360 RFA balloon catheter",
+        "slug": "barrx-360-rfa-balloon-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-360-rfa-balloon-catheter-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ 360 RFA balloon catheter with a 360-degree electrode array facilitates esophageal ablation through the Barrx™ radiofrequency ablation system.",
+        "deschead": "Barrx™ 360 RFA balloon catheter",
+        "description": "The Barrx™ 360 RFA balloon catheter is designed to deliver a short burst (less than 1 second) of ablative energy circumferentially to the esophagus when treating Barrett's esophagus. It works with the Barrx™ 360 soft-sizing balloon and the Barrx™ Flex RFA energy generator — components of the Barrx™ radiofrequency ablation system — to assist with the removal of the Barrett's epithelium.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Barrx™ 360 RFA balloon catheter is designed to deliver a short burst of ablative energy"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82171,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "DiamondTemp™ ablation catheter",
+        "slug": "diamondtemp-ablation-catheter",
+        "url": "",
+        "imgurl": "/img/diamondtemp-ablation-catheter-tip-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The DiamondTemp™ ablation catheter is an open-irrigated radiofrequency (RF) ablation catheter used for cardiac ablation to treat atrial fibrillation.",
+        "deschead": "DiamondTemp™ ablation catheter",
+        "description": "As the only open-irrigated radiofrequency (RF) catheter with industrial diamonds to optimize power based on tissue surface temperature, the DiamondTemp™ ablation catheter with RealTemp™ is safe and effective, and has demonstrated procedural efficiencies compared to contact force-sensing RF.",
+        "features": {
+            "ftr-1": {
+                "name": "Exclusive diamond-enabled tip tooling",
+                "ftrvals": [
+                    "The 8.0 Fr ablation catheter includes industrial diamonds, enabling rapid cooling due to their high thermal diffusivity property. The catheter tip is comprised of platinum-iridium and diamond components. A network of chemical vapor deposit (CVD) industrial diamonds acts as heat-shunting material."
+                ]
+            },
+            "ftr-2": {
+                "name": "Real-time temperature-sensing technology",
+                "ftrvals": [
+                    "The DiamondTemp™ ablation catheter runs in temperature-control mode.",
+                    "RealTemp™ drives thermocouple readings by the generator 50 times per second and automatically adjusts the power to the ablation set temperature.",
+                    "A new study shows that through operation in temperature control mode, the level of applied contact force does not influence lesion size for durations between 5 to 15 seconds."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82172,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ 360 soft sizing balloon",
+        "slug": "barrx-360-soft-sizing-balloon",
+        "url": "",
+        "imgurl": "/img/barrx-360-soft-sizing-balloon-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ 360 soft sizing balloon works with the Barrx™ flex RFA energy generator to measure the esophageal inner diameter.",
+        "deschead": "Barrx™ 360 soft sizing balloon",
+        "description": "The Barrx™ 360 soft sizing balloon works with the Barrx™ flex RFA energy generator to measure the esophageal inner diameter.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Works with the Barrx™ flex RFA energy generator to measure the esophageal inner diameter."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82173,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "FlexCath Contour™ steerable sheath",
+        "slug": "flexcath-contour-steerable-sheath",
+        "url": "",
+        "imgurl": "/img/flexcath-contour-steerable-sheath-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The FlexCath Contour™ steerable sheath provides enhanced maneuverability during atrial fibrillation ablation procedures.",
+        "deschead": "FlexCath Contour™ steerable sheat",
+        "description": "FlexCath Contour™ steerable sheaths enable electrophysiologists to steer therapy with confidence. Enhanced maneuverability, refined transitions, and the zero exchange workflow are experienced throughout each ablation procedure.",
+        "features": {
+            "ftr-1": {
+                "name": "Enhanced maneuverability",
+                "ftrvals": [
+                    "The FlexCath Contour™ steerable sheath is designed to maintain shape and performance throughout the procedure, with increased, bi-directional deflection and a redesigned shaft. Two tip lengths enable options for greater access to the right inferior pulmonary vein (RIPV)."
+                ]
+            },
+            "ftr-2": {
+                "name": "Refined transitions",
+                "ftrvals": [
+                    "The distal tip of the sheath has been redesigned with a more gradual approach angle and flexible material to enable a smooth sheath-dilator transition into patient vasculature and across the septum."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82174,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ ultra long RFA focal catheter",
+        "slug": "barrx-ultra-long-rfa-focal-catheter",
+        "url": "",
+        "imgurl": "/img/barrx-ultra-long-rfa-focal-cath-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ ultra long RFA catheter is used to treat short and intermediate non-circumferential Barrett's esophagus or to provide treatment after ablation.",
+        "deschead": "Barrx™ ultra long RFA focal catheter",
+        "description": "The Barrx™ ultra long RFA catheter is used to treat short and intermediate non-circumferential Barrett's esophagus or to provide treatment after ablation.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Provides easy introduction into upper GI tract",
+                    "Due to a larger (two times) surface area compared to the Barrx™ 90 RFA focal catheter, Barrx™ ultra long RFA focal catheter treats comparable non-circumferential areas of Barrett's esophagus in less time than the Barrx™ 90 RFA focal catheter",
+                    "Allows positioning within the esophagus and gastroesophageal junction",
+                    "Provides for direct visualization of electrode during procedure",
+                    "Uses standard endoscopic technique",
+                    "Articulated electrode platform moves in 2-D, left to right and front to back, to ensure tissue contact"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82175,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ RFA soft cleaning caps",
+        "slug": "barrx-rfa-cleaning-cap",
+        "url": "",
+        "imgurl": "/img/barrx-rfa-cleaning-caps-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "Barrx™ RFA cleaning caps are designed to facilitate removal of ablated esophageal tissue in conjunction with balloon catheters.",
+        "deschead": "Barrx™ RFA cleaning cap",
+        "description": "Barrx™ RFA cleaning caps work in conjunction with the Barrx™ 360 express RFA balloon catheter and the Barrx™ 360 RFA balloon catheter. Each single-use cap mounts on the distal end of a flexible endoscope.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Barrx™ RFA cleaning caps work in conjunction with the Barrx™ 360 express RFA balloon catheter"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82176,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Barrx™ RFA endoscopic guidewire",
+        "slug": "barrx-rfa-endoscopic-guidewire",
+        "url": "",
+        "imgurl": "/img/barrx-360-rfa-catheter-endoscopic-guidewire-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Barrx™ RFA guidewire facilitates the exchange of the Barrx™ 360 express RFA, Barrx™ 360 RFA balloon catheter, and Barrx™ 360 soft-sizing balloon.",
+        "deschead": "Barrx™ RFA endoscopic guidewire",
+        "description": "The Barrx™ RFA guidewire facilitates the exchange of the Barrx™ 360 express RFA, Barrx™ 360 RFA balloon catheter, and Barrx™ 360 soft-sizing balloon.",
+        "features": {
+            "ftr-1": {
+                "name": "General characteristics",
+                "ftrvals": [
+                    "Packaged individually",
+                    "Supplied sterile for single use",
+                    "Coated stainless steel core",
+                    "Straight, flexible, distal tip"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82177,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ surgical ablation pen",
+        "slug": "cardioblate-surgical-ablation-pen",
+        "url": "",
+        "imgurl": "/img/cardioblate-pen-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ surgical ablation pen reaches areas of the heart that are difficult to ablate with a bipolar clamp.",
+        "deschead": "Cardioblate™ surgical ablation pen",
+        "description": "Cardioblate™ surgical ablation pens offer the unique advantages of irrigated ablation technology. Irrigation allows energy to be driven further into the tissue for a deeper lesion, offers procedural versatility and malleability and minimizes tissue charring",
+        "features": {
+            "ftr-1": {
+                "name": "The Cardioblate™ standard surgical ablation pen provides easy-to-use features:",
+                "ftrvals": [
+                    "Malleable shaft allows you to shape the device",
+                    "Irrigation to cool tissue surface and facilitate deep energy penetration",
+                    "A small tip to optimize visibility in tight spaces",
+                    "Ergonomic handheld design"
+                ]
+            },
+            "ftr-2": {
+                "name": "The Cardioblate™ XL surgical ablation pen features an extended length monopolar shaft (20 cm) designed for cardiac ablation procedures on difficult-to-access tissue. It is especially useful for:",
+                "ftrvals": [
+                    "Small thoracotomy approaches (MICS)",
+                    "Larger or “barrel-chested” full sternotomy patients",
+                    "The ergonomic handle provides a comfort fit for the operator. The extended length shaft is reinforced to provide added column strength, yet it is fully malleable so it can be conformed to meet virtually any anatomical challenge.",
+                    "Key risks of Cardioblate™ iRF surgical ablation products include: tissue damage, extended procedural time, non-transmural lesions, conduction disturbances, bleeding, burn, stroke, TIA, acute ischemia, pericardial effusion, or tamponade."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82178,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Visualase™ MRI-guided laser ablation",
+        "slug": "visualase-mri-guided-laser-ablation",
+        "url": "",
+        "imgurl": "/img/visualase-1-65-mm-cooling-catheter-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "Visualase™ is a minimally-invasive surgical option to ablate epileptic foci, brain tumors, and radiation necrosis.",
+        "deschead": "Visualase™ MRI-guided laser ablation",
+        "description": "Visualase™ is an MRI-guided laser ablation system used to perform laser interstitial thermal therapy (LITT), a minimally invasive surgical alternative to open craniotomy. LITT may benefit patients with brain tumors, radiation necrosis, or medically refractory focal epilepsy.",
+        "features": {
+            "ftr-1": {
+                "name": "Visualase™ MRI-guided laser ablation system lets you monitor tissue ablation in real-time. It provides significant advantages to the patient:",
+                "ftrvals": [
+                    "Small catheter — 1.65 mm diameter",
+                    "Requires a very small incision and 3.2 mm burr hole",
+                    "Requires minimal sutures, typically a single stitch",
+                    "Most patients have little or no hair removed",
+                    "Less scarring compared to open procedures",
+                    "Most patients are discharged after a shorter stay compared to open procedures — typically one day",
+                    "Requires no ionizing radiation or large skull flap"
+                ]
+            },
+            "ftr-2": {
+                "name": "How the Visualase™ ablation system works",
+                "ftrvals": [
+                    "The Visualase™ system delivers laser energy through a small catheter into unwanted soft tissue targets in the brain. When laser energy is absorbed by the target tissue, temperature rises and, over time, creates an irreversibly damaged thermal lesion."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82179,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "RF Marinr™ 5 Fr steerable ablation catheter",
+        "slug": "rf-marinr-5-fr-steerable-single-curve-ablation-catheter",
+        "url": "",
+        "imgurl": "/img/rf-marinr-5-fr-ablation-catheter-handle-prod.jpg",
+        "videourl": "",
+        "shortdesc": "The RF 5 Fr Marinr™ steerable single-curve ablation catheter is designed for small vasculature.",
+        "deschead": "RF Marinr™ 5 Fr steerable single-curve ablation catheter",
+        "description": "The RF Marinr™ 5 Fr steerable single-curve ablation catheter is a single-use catheter that delivers radiofrequency energy and is available in a variety of curvature and sizing options. It has lateral deflection features to address the needs of diverse anatomies.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "User-friendly, single-curve control",
+                    "Available with four different curve reaches"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82180,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ LP RF surgical ablation device",
+        "slug": "cardioblate-lp-irrigated-rf-surgical-ablation-device",
+        "url": "",
+        "imgurl": "/img/cardioblate-lp-irf-bipolar-clamp-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ LP device uses irrigated bipolar radiofrequency (RF) energy to provide surgeons with a means to ablate cardiac tissue.",
+        "deschead": "Cardioblate™ LP irrigated RF surgical ablation device",
+        "description": "The Cardioblate™ LP irrigated RF surgical ablation device uses a smart-energy algorithm that detects changes in the tissue and responds by increasing or decreasing power. This helps prevent overheating and keeps the temperature in the optimal heating range.",
+        "features": {
+            "ftr-1": {
+                "name": "Access and maneuver with ease",
+                "ftrvals": [
+                    "The Cardioblate™ LP bipolar device features a design that enables access to the required anatomical structures."
+                ]
+            },
+            "ftr-2": {
+                "name": "Low-electrode profile provides access to challenging cardiac anatomy",
+                "ftrvals": [
+                    "Lower profile when compared to Medtronic Cardioblate™ BP2 device.",
+                    "A malleable neck provides positioning options.",
+                    "The 5.5 inch neck is 1 inch longer than the Medtronic Cardioblate™ BP2 device.",
+                    "The 7 cm pre-curved rigid electrodes can be rotated through 300° and feature blunt tips."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82181,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Nitron CryoConsole™ cryoablation system",
+        "slug": "nitron-cryoconsole-cardiac-cryoablation-system",
+        "url": "",
+        "imgurl": "/img/nitron-cryoconsole-cardiac-cryoablation-system-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Nitron CryoConsole™ cardiac cryoablation system houses electrical and mechanical components as well as software used for cryotherapy procedures.",
+        "deschead": "Nitron CryoConsole™ cardiac cryoablation system",
+        "description": "The Nitron CryoConsole™ system houses the electrical and mechanical components as well as proprietary software for cryomapping, controlling, and recording a cryotherapy procedure performed with the Arctic Front™ or Freezor™ family of cryoablation catheters. Multiple features are built into the Medtronic cryoablation catheters and the Nitron CryoConsole™ system to promote system safety and efficiency.",
+        "features": {
+            "ftr-1": {
+                "name": "Intuitively integrated workflow",
+                "ftrvals": [
+                    "The Nitron CryoConsole™ system safely and effectively powers the Arctic Front™ family of cardiac cryoablation catheters and the Freezor™ family of cryoablation catheters. It is the next generation of the Medtronic cryoconsole, expertly elevating the cryoablation workflow."
+                ]
+            },
+            "ftr-2": {
+                "name": "Enhanced data capture",
+                "ftrvals": [
+                    "Automated and customizable key procedural data captured real-time and post-procedure in an exportable case summary report"
+                ]
+            },
+            "ftr-3": {
+                "name": "Optimized workflow",
+                "ftrvals": [
+                    "The Nitron CryoConsole™ system offers a simple, optimized workflow with touchscreen interface, wired remote control, and mirrored display on external lab monitors. The console also includes an electrophysiology (EP) connectivity feature, which enables cryotherapy information to be transmitted to select external EP recording systems."
+                ]
+            },
+            "ftr-4": {
+                "name": "Simple graphic user interface (GUI)",
+                "ftrvals": [
+                    "Arctic Front Advance™ cardiac cryoablation catheters",
+                    "ECG (used with Freezor™ family only)",
+                    "Auto connection box",
+                    "Freezor™ family of cardiac cryoablation catheters",
+                    "Coaxial umbilical cable",
+                    "Electrical umbilical cable"
                 ]
             }
         }
