@@ -24,7 +24,7 @@ const ContactForm = () => {
     const validate = () => {
         let formErrors = {}
     
-        if (!formData.name) formErrors.name = "Nname is required"
+        if (!formData.name) formErrors.name = "Name is required"
         if (!formData.phone) formErrors.phone = "Phone is required"
         if (!formData.country) formErrors.country = "Country is required"
         if (!formData.email) {
@@ -77,7 +77,7 @@ const ContactForm = () => {
                     </Col>
                 </Row>
                 <br />
-                <Form.Label>Yoyr Message</Form.Label>
+                <Form.Label>Your Message</Form.Label>
                 <Form.Control as="textarea" rows={12} />
                 <p className="body22">By submitting this form you agree to our terms and conditions and our Privacy Policy which explains how we may collect, use and disclose your personal information including to third parties.</p>
                 <Button type="submit" variant="outline-primary" size="lg">Contact Sales</Button>
