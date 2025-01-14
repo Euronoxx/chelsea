@@ -1963,5 +1963,729 @@
                 ]
             }
         }
+    },
+    {
+        "id": 82182,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "CryoConsole™ cardiac cryoablation system",
+        "slug": "cryoconsole-cardiac-cryoablation-system",
+        "url": "",
+        "imgurl": "/img/cryoconsole-cardiac-cryoablation-system-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The CryoConsole™ cardiac ablation system powers and regulates the temperature of approved cryoablation catheters during heart arrhythmia procedures.",
+        "deschead": "Advanced technology for efficient operations",
+        "description": "The CryoConsole™ system houses the electrical and mechanical components as well as proprietary software for controlling and recording a cryotherapy procedure performed with the Arctic Front Family of Cryoablation Catheters and/or Freezor Family of Focal Cryoablation Catheters.",
+        "features": {
+            "ftr-1": {
+                "name": "Adjustable monitor",
+                "ftrvals": [
+                    "The CryoConsole™ cardiac ablation system features an adjustable monitor and touch-screen control for a straightforward procedure. It can be paired with a footswitch that starts and stops the flow of refrigerant during a procedure. The console also includes an electrophysiology (EP) connectivity feature, which enables cryotherapy information to be transmitted to select external EP recording systems. "
+                ]
+            },
+            "ftr-2": {
+                "name": "Intuitive operation",
+                "ftrvals": [
+                    "Patient data and therapy variables are managed by a simple touchscreen interface. The screen also displays numerical and graphical data to help physicians and staff assess the status of the system, ablation time, and catheter temperatures. The CryoConsole™ system can transmit information about the procedure to other EP recording systems for display purposes."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82183,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ 68000 ablation system generator",
+        "slug": "cardioblate-68000-surgical-ablation-system-generator",
+        "url": "",
+        "imgurl": "/img/cardioblate-6800-surgical-ablation-system-generator-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ 68000 is a portable, lightweight power generator for the Cardioblate™ surgical ablation devices.",
+        "deschead": "The Cardioblate™ 68000 generator",
+        "description": "The Cardioblate™ 68000 generator is the foundation on which the Medtronic Cardioblate™ system is built, delivering precise, irrigated radiofrequency (RF) energy to achieve transmurality and consistent conduction block.",
+        "features": {
+            "ftr-1": {
+                "name": "Real-time feedback, real-time power",
+                "ftrvals": [
+                    "Dose-response algorithm customizes energy delivery based on tissue impedance to achieve reliable, reproducible transmurality",
+                    "Audible tones and touch screen messages notify user of ablation status, transmurality, and other critical information",
+                    "Touch screen operation for adjusting ablation parameters",
+                    "Color LCD screen folds into case for storage and flips open on hinge for different viewing angles",
+                    "Troubleshooting steps available via touch screen messages"
+                ]
+            },
+            "ftr-2": {
+                "name": "The Cardioblate™ 68000 generator is designed for use with the following Medtronic ablation devices:",
+                "ftrvals": [
+                    "Cardioblate™ surgical ablation pen",
+                    "Cardioblate™ XL surgical ablation pen",
+                    "Cardioblate™ BP2 surgical ablation device",
+                    "Cardioblate™ LP surgical ablation device",
+                    "Cardioblate™ Gemini™-s surgical ablation device"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82184,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ Gemini™-s surgical ablation device",
+        "slug": "cardioblate-gemini-surgical-ablation-device",
+        "url": "",
+        "imgurl": "/img/cardioblate-gemini-s-irrigated-radiofrequency-surgical-ablation-system-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ Gemini™-s, featuring a malleable neck, is a bipolar irrigated radio-frequency MICS device.",
+        "deschead": "Designed for a minimally invasive approach",
+        "description": "Experience the flexibility and control of the Cardioblate™ Gemini™-s irrigated RF (iRF) surgical ablation system during your endoscopic ablation procedures. Our system combines the efficacy of iRF energy with a lateral approach to the posterior left atrium of the heart. Cardioblate™ Gemini™-s bipolar iRF has a malleable neck for performing MICS ablation on a beating heart.",
+        "features": {
+            "ftr-1": {
+                "name": "Lateral conduction block",
+                "ftrvals": [
+                    "Isolate the posterior left atrium of the heart with two lesions.",
+                    "Cardioblate™ Gemini™-s irrigated RF is a MICS surgical ablation device that provides a lateral approach to the posterior left atrium of the heart. The unique bipolar clamp design and flexible neck make it possible to access this area and create conduction block with two lesions.",
+                    "Our device navigates the transverse and oblique sinuses — which are natural pathways around pericardial reflections — to position the clamp on the posterior left atrium of the heart. This lateral approach minimizes the need for blunt tissue dissection."
+                ]
+            },
+            "ftr-2": {
+                "name": "Ablates thick and fatty tissues",
+                "ftrvals": [
+                    "The Cardioblate™ Gemini™-s iRF surgical ablation system provides additional power which may ablate through thick and fatty tissue associated with the posterior left atrium."
+                ]
+            },
+            "ftr-3": {
+                "name": "Easy positioning",
+                "ftrvals": [
+                    "Guides use natural anatomical pathways for the Cardioblate™ Gemini™-s iRF device to follow and aid in jaw placement."
+                ]
+            },
+            "ftr-4": {
+                "name": "Quick connect",
+                "ftrvals": [
+                    "Guides easily to connect to — and disconnect from — the jaw tips.",
+                    "Key risks of the Cardioblate™ Gemini™-s surgical ablation device include: tissue damage, extended procedural time, non-transmural lesions, conduction disturbances, bleeding, burn, stroke, TIA, acute ischemia, pericardial effusion or tamponade."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82185,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ BP2 RF ablation device",
+        "slug": "cardioblate-bp2-irrigated-rf-surgical-ablation-device",
+        "url": "",
+        "imgurl": "/img/cardioblate-bp2-irf-bipolar-clamp-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ BP2 device uses irrigated bipolar radiofrequency (RF) energy to provide surgeons with a means to ablate cardiac tissue in surgical procedures.",
+        "deschead": "Flexibility and consistent conduction block",
+        "description": "The Cardioblate™ BP2 device uses irrigated bipolar radiofrequency (RF) energy to provide surgeons with a means to ablate cardiac  tissue with confidence that the lesions are transmural.",
+        "features": {
+            "ftr-1": {
+                "name": "Positioning electrodes at the ablation site has never been easier",
+                "ftrvals": [
+                    "The flexible malleable electrodes can be rotated through 300° and can be conformed to address cardiac anatomies.",
+                    "The malleable 7 cm active electrodes facilitate placement.",
+                    "Irrigated electrodes efficiently transmit RF energy to cardiac tissue, resulting in transmural lesions and consistent conduction block.",
+                    "The locking mechanism maintains hold of cardiac tissue without manual assistance.",
+                    "Irrigation cools tissue surface and facilitates deep energy penetration."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82186,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ CryoFlex™ surgical ablation probe",
+        "slug": "cardioblate-cryoflex-surgical-ablation-probe",
+        "url": "",
+        "imgurl": "/img/cardioblate-cryoflex-surgical-ablation-probe-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "Cardioblate™ CryoFlex™ probes are used to freeze target tissue and block electrical conduction pathways, creating inflammatory response and cryonecrosis.",
+        "deschead": "Malleability that conforms to atrial anatomy",
+        "description": "Cardioblate™ CryoFlex™ surgical ablation probes are malleable, conforming to the shape of the atrium. The probes are available in 7 cm and 10 cm lengths.",
+        "features": {
+            "ftr-1": {
+                "name": "Malleability",
+                "ftrvals": [
+                    "The tip of the probe can be custom shaped quickly to meet the specific needs of the surgical case. A shaping tool is not required to control the contour of the CryoFlex™ probe."
+                ]
+            },
+            "ftr-2": {
+                "name": "Adjustable insulation sheath",
+                "ftrvals": [
+                    "The ablation length of the probe tip can be adjusted using a sliding insulation sheath, helping to shield non-targeted tissue."
+                ]
+            },
+            "ftr-3": {
+                "name": "Argon-powered cryoablation",
+                "ftrvals": [
+                    "Cardioblate™ CryoFlex™ probes, using Argon gas, reach temperatures of - 150 C in test freezes."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82187,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Achieve™ mapping catheter",
+        "slug": "achieve-mapping-catheter",
+        "url": "",
+        "imgurl": "/img/achieve-mapping-catheter-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Achieve™ mapping catheter enables the assessment of pulmonary vein isolation during cryoablation procedures.",
+        "deschead": "Achieve™ mapping catheter",
+        "description": "The Achieve™ mapping catheter is an intracardiac electrophysiology diagnostic catheter designed for use with the Arctic Front™ family of cardiac cryoablation catheters and the FlexCath™ Contour steerable sheath.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Achieve™ mapping catheter allows for the assessment of pulmonary vein (PV) isolation during the cryoablation procedure. The catheter is deployed through the cryoballoon guide wire lumen, minimizing the number of catheter exchanges and allowing the procedure to be performed using a single transseptal puncture. The Achieve™ mapping catheter may also provide recording of real-time PV potentials during cryoablation with the cryoballoon.",
+                    "The distal mapping section of the Achieve™ mapping catheter is a circular loop with eight evenly spaced electrodes for mapping electrical conduction between the left atrium and pulmonary veins. The catheter may also be used for cardiac stimulation during electrophysiology studies. The Achieve™ catheter features a cable with eight shielded electrocardiography (ECG) pins to connect into standard electrophysiology (EP) recording and pacing equipment."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82188,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Arctic Front Pro™ cardiac cryoablation catheter",
+        "slug": "arctic-front-advance-pro-cardiac-cryoablation-catheter",
+        "url": "",
+        "imgurl": "/img/arctic-front-advance-pro-cryoballoon-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Arctic Front Advance Pro™ enables pulmonary vein isolation (PVI) using an anatomical approach during atrial fibrillation (AF) catheter ablation procedures.",
+        "deschead": "Arctic Front Advance Pro™ cardiac cryoablation catheter",
+        "description": "The Arctic Front Advance Pro™ cardiac cryoablation catheter is part of a family of cryoballoon catheters anatomically designed for use with the Achieve™ mapping catheters, the FlexCath Contour™ steerable sheath, the FlexCath Cross™ transeptal solution, and the Nitron CryoConsole™ cardiac cryoablation system to enable PVI. Over 1.4 million patients worldwide have been treated with the Medtronic cryoballoon.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Built on the proven Arctic Front™ platform, the Arctic Front Advance Pro™ cryoballoon was developed with a shortened tip profile to allow for improved time-to-isolation visualization,5-11 by bringing the electrodes closer to the vein's muscular sleeves. This enables physician-tailored dosing protocols11 and may result in improved procedural efficiency."
+                ]
+            },
+            "ftr-2": {
+                "name": "Cryoballoon indications",
+                "ftrvals": [
+                    "The Arctic Front Advance™ and Arctic Front Advance Pro™ cardiac cryoablation catheters are the only catheters indicated for the treatment of recurrent, symptomatic, paroxysmal atrial fibrillation as an alternative to antiarrhythmic drug therapy as an initial rhythm control strategy. The Arctic Front™ family is also indicated for the treatment of drug-refractory, recurrent, symptomatic, paroxysmal, and persistent atrial fibrillation (episode duration less than six months)."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82189,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Cardioblate™ CryoFlex™ surgical ablation console",
+        "slug": "cardioblate-cryoflex-surgical-ablation-console",
+        "url": "",
+        "imgurl": "/img/cardioblate-cryoflex-surgical-ablation-console-prodmast.jpg",
+        "videourl": "",
+        "shortdesc": "The Cardioblate™ CryoFlex™ surgical ablation console is the command center for the CryoFlex™ surgical ablation system.",
+        "deschead": "Cardioblate™ CryoFlex™ surgical ablation console",
+        "description": "The Cardioblate™ CryoFlex™ surgical ablation console consists of a control panel and a carrier for transporting and storing the argon gas tank. The console provides the energy for a variety of malleable, flexible, single-use CryoFlex™ probes.",
+        "features": {
+            "ftr-1": {
+                "name": "Adjustable surgical ablation timer ",
+                "ftrvals": [
+                    "A built-in timer can be set for the targeted duration of each ablation. When the pre-set ablation time is reached, the system automatically stops."
+                ]
+            },
+            "ftr-2": {
+                "name": "Probe temperature gauge",
+                "ftrvals": [
+                    "Probe temperature is indicated on the console to help the operator assess temperature performance during ablation."
+                ]
+            },
+            "ftr-3": {
+                "name": "Ablation minutes-remaining indicator",
+                "ftrvals": [
+                    "The system has a pressure sensor that calculates the amount of ablation time remaining with the attached tank of argon gas."
+                ]
+            },
+            "ftr-4": {
+                "name": "Integrated membrane keypad control",
+                "ftrvals": [
+                    "The console has one-touch, push-button controls to help prevent inadvertent activation."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82190,
+        "brand": "Medtronic",
+        "category": "Ablation Products",
+        "path": "/products/medtronic/ablation-products",
+        "title": "Freezor™ cardiac cryoablation catheter",
+        "slug": "freezor-cardiac-cryoablation-catheter",
+        "url": "",
+        "imgurl": "/img/freezor-cardiac-cryoablation-catheter-fam-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Freezor™ cardiac cryoablation catheters are single-use catheters designed to ablate cardiac tissue by creating focal lesions.",
+        "deschead": "Freezor™ cardiac cryoablation catheter",
+        "description": "The Freezor™ and Freezor™ Xtra catheters are designed for the treatment of atrioventricular nodal reentry tachycardia (AVNRT). The Freezor™ MAX catheter is designed for the treatment of atrial fibrillation.",
+        "features": {
+            "ftr-1": {
+                "name": "Restoring life's rhythm. Big and small.",
+                "ftrvals": [
+                    "Freezor™ and Freezor™ Xtra cardiac cryoablation catheters freeze the target tissue and block the electrical conduction by creating scar tissue. The catheters are designed to create focal lesions to treat (AVNRT) for both adult and pediatric† patients.",
+                    "The Freezor™ Xtra catheter is also intended for minimally invasive cardiac surgery procedures, including surgical treatment of cardiac arrhythmias."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82191,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ FT10 electrosurgical generator",
+        "slug": "valleylab-ft10-electrosurgical-generator",
+        "url": "",
+        "imgurl": "/img/ft10-electrosurgery-generator-right-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ FT10 electrosurgical generator drives monopolar and bipolar devices, deploying TissueFect™ sensing technology to adjust energy output.",
+        "deschead": "Valleylab™ FT10 electrosurgical generator",
+        "description": "The Valleylab™ FT10 electrosurgical generator delivers precise and consistent tissue effects with monopolar and bipolar devices. TissueFect™ sensing technology adjusts energy output in real-time by actively monitoring tissue impedance changes and delivering the appropriate amount of energy for the desired tissue effect.",
+        "features": {
+            "ftr-1": {
+                "name": "Trust in performance, reliability, and safety",
+                "ftrvals": [
+                    "For over 55 years, the Valleylab™ energy portfolio has shown an unwavering commitment to positive patient outcomes through trusted energy delivery, establishing pathways for future innovation in the surgical energy space.",
+                    "Our proprietary electronics and algorithms allow the Valleylab™ FT10 electrosurgical generator to deliver the highest power consistency."
+                ]
+            },
+            "ftr-2": {
+                "name": "TissueFect™ technology",
+                "ftrvals": [
+                    "TissueFect™ sensing technology monitors changes in tissue impedance 434,000 times a second and adjusts energy output accordingly to deliver the appropriate amount of energy for the desired tissue effect."
+                ]
+            },
+            "ftr-3": {
+                "name": "Easy-to-read control panel",
+                "ftrvals": [
+                    "The Valleylab™ FT10 electrosurgical generator is an intuitive system to use, and the error alerts are easy to understand."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82192,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "ForceTriad™ three-pedal footswitch",
+        "slug": "forcetriad-three-pedal-footswitch",
+        "url": "",
+        "imgurl": "/img/forcetriad-three-pedal-footswitch-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The ForceTriad™ three-pedal footswitch enables foot activation of cut, using the Valleylab™ and coag modes when used with the ForceTriad™ energy platform.",
+        "deschead": "ForceTriad™ three-pedal footswitch",
+        "description": "The ForceTriad™ three-pedal footswitch enables foot activation of cut, using the Valleylab™ and coag modes when used with the ForceTriad™ energy platform.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The ForceTriad™ three-pedal footswitch enables foot activation of cut, using the Valleylab™ and coag modes"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82193,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "ForceTriad™ bipolar resection footswitch",
+        "slug": "forcetriad-bipolar-resection-footswitch",
+        "url": "",
+        "imgurl": "/img/forcetriad-bipolar-footswitch-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The ForceTriad™ bipolar resection footswitch is a dedicated footswitch for activating cut and coag.",
+        "deschead": "ForceTriad™ bipolar resection footswitch",
+        "description": "The ForceTriad™ bipolar resection footswitch is a dedicated footswitch for activating cut and coag.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The ForceTriad™ bipolar resection footswitch is a dedicated footswitch for activating cut and coag."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82194,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ LS10 vessel sealing generator",
+        "slug": "valleylab-ls10-generator",
+        "url": "",
+        "imgurl": "/img/cv-ls10-frnt-low-0315.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ LS10 vessel sealing generator is intended for open and laparoscopic surgical procedures.",
+        "deschead": "Single-channel LigaSure™ generator",
+        "description": "The Valleylab™ LS10 electrosurgical generator is a portable unit that made LigaSure™ vessel sealing technology accessible to customers around the globe.",
+        "features": {
+            "ftr-1": {
+                "name": "Features of the LS10 vessel sealing generator include:",
+                "ftrvals": [
+                    "TissueFect™ sensing technology across all modalities",
+                    "LigaSure™ fusion technology for vessel sealing",
+                    "On-site updates via the Valleylab™ exchange software update system"
+                ]
+            },
+            "ftr-2": {
+                "name": "Specialties using the Valleylab™ LS10 generator include:",
+                "ftrvals": [
+                    "Colorectal",
+                    "Urology",
+                    "General surgery",
+                    "Plastics",
+                    "Gynecology"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82195,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ universal mounting cart cord kit",
+        "slug": "valleylab-universal-mounting-cart-cord-management-kit",
+        "url": "",
+        "imgurl": "/img/valleylab-cord-management-kit-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal mounting cart cord management kit includes two brackets designed to manage cords on the Valleylab™ universal mounting cart.",
+        "deschead": "Valleylab™ universal mounting cart cord management kit",
+        "description": "The Valleylab™ universal mounting cart cord management kit includes two brackets designed to manage cords on the Valleylab™ universal mounting cart.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Valleylab™ universal mounting cart cord management kit includes two brackets designed to manage cords"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82196,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ universal mounting cart overshelf",
+        "slug": "valleylab-universal-mounting-cart-overshelf",
+        "url": "",
+        "imgurl": "/img/valleylab-mounting-shelf-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal mounting cart overshelf fits the Valleylab™ universal mounting cart and is ideal for a second electrosurgical generator.",
+        "deschead": "Valleylab™ universal mounting cart overshelf",
+        "description": "The Valleylab™ universal mounting cart overshelf fits the Valleylab™ universal mounting cart and is ideal for a second electrosurgical generator.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ universal mounting cart is ideal for a second electrosurgical generator."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82197,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ universal mounting cart tank kit",
+        "slug": "valleylab-universal-mounting-cart-argon-gas-tank-kit",
+        "url": "",
+        "imgurl": "/img/valleylab-mounting-argon-gas-kit-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal mounting cart argon gas tank kit fits the Valleylab™ universal mounting cart and holds two gallon-size 42 cubic ft. tanks.",
+        "deschead": "Valleylab™ universal mounting cart argon gas tank kit",
+        "description": "The Valleylab™ universal mounting cart argon gas tank kit fits the Valleylab™ universal mounting cart and holds two gallon-size 42 cubic ft. tanks.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ universal mounting cart argon gas tank kit fits the Valleylab™ universal mounting cart and holds two gallon-size 42 cubic ft. tanks."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82198,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ mounting cart suspended shelf",
+        "slug": "valleylab-universal-mounting-cart-suspended-shelf",
+        "url": "",
+        "imgurl": "/img/valleylab-mounting-suspended-shelf-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal mounting cart suspended shelf is compatible with the Valleylab™ universal mounting cart and is ideal for smoke evacuation systems.",
+        "deschead": "Valleylab™ universal mounting cart suspended shelf",
+        "description": "The Valleylab™ universal mounting cart suspended shelf is compatible with the Valleylab™ universal mounting cart and is ideal for smoke evacuation systems.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ universal mounting cart suspended shelf is compatible with the Valleylab™ universal mounting cart and is ideal for smoke evacuation systems."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82199,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ universal generator cart",
+        "slug": "valleylab-universal-generator-cart",
+        "url": "",
+        "imgurl": "/img/valleylab-ft10-cart-right-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ universal generator cart is designed to organize and transport electrosurgical and ablation systems.",
+        "deschead": "Valleylab™ universal generator cart",
+        "description": "The Valleylab™ universal generator cart supports multiple generators and accessories and is compatible with the Valleylab™ F10 and FX8 energy platforms.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ universal generator cart supports multiple generators and accessories and is compatible with the Valleylab™ F10 and FX8 energy platforms."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82200,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "LigaSure™ orange single-pedal footswitch",
+        "slug": "ligasure-orange-single-pedal-footswitch",
+        "url": "",
+        "imgurl": "/img/ligasure-orange-pedal-footswitch-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The LigaSure™ orange footswitch activates LigaSure™ instruments that are connected to the LigaSure™ instrument receptacle of the ForceTriad™ energy platform.",
+        "deschead": "LigaSure™ orange single-pedal footswitch",
+        "description": "The orange, nine-pin LigaSure™ single-pedal footswitch connector plug attaches to the purple LigaSure™ footswitch receptacle on the rear panel of the ForceTriad™ energy platform. Once attached, the LigaSure™ orange single-pedal footswitch activates LigaSure™ instruments that are connected to the LigaSure™ 2 instrument receptacle on the front panel of the system.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The LigaSure™ orange footswitch activates LigaSure™ instruments that are connected to the LigaSure™ instrument receptacle of the ForceTriad™ energy platform."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82201,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ bipolar standard footswitch",
+        "slug": "valleylab-bipolar-standard-footswitch",
+        "url": "",
+        "imgurl": "/img/valleylab-standard-bipolar-footswitch-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ bipolar standard footswitch allows for independent control of bipolar output with all Force™ series generators.",
+        "deschead": "Valleylab™ bipolar standard footswitch",
+        "description": "The Valleylab™ bipolar standard footswitch allows for independent control of bipolar output with all Force™ series generators.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ bipolar standard footswitch allows for independent control of bipolar output with all Force™ series generators."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82202,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Hardware",
+        "path": "/products/medtronic/electrosurgical-hardware",
+        "title": "Valleylab™ monopolar footswitch",
+        "slug": "valleylab-monopolar-footswitch",
+        "url": "",
+        "imgurl": "/img/valleylab-monopolar-footswitch-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ monopolar footswitch is designed for use with all Medtronic full-powered generators and features cut and coag pedals.",
+        "deschead": "Valleylab™ monopolar standard footswitch",
+        "description": "The low-profile Valleylab™ monopolar footswitch is designed specifically for use with all Medtronic full-powered generators. The footswitch is manufactured of high-quality cast aluminum and features highly visible color-coded foot pedals for safety. It also features a non-skid rubber base, water resistant strain relief connectors, and a divider bar between the cut and coag pedals.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ monopolar footswitch is designed for use with all Medtronic full-powered generators and features cut and coag pedals."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82203,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ electrosurgical pencil with electrode",
+        "slug": "valleylab-electrosurgical-pencil-with-stainless-steel-electrode",
+        "url": "",
+        "imgurl": "/img/e2516-tilt-lft.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ electrosurgical pencil with stainless steel electrode offers exceptional performance in a wide range of surgical procedures.",
+        "deschead": "Valleylab™ electrosurgical pencil with stainless steel electrode",
+        "description": "The Valleylab™ electrosurgical pencil with stainless steel electrode is available with either button or rocker switch controls to accommodate the surgeon's preference. Switches have a high level of tactile feedback — surgeons can hear and feel the switch engage, preventing accidental activation of the device. The pencil is also available with the accessory holster and with the AccuVac™ smoke attachment.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ electrosurgical pencil with stainless steel electrode",
+                "ftrvals": [
+                    "The Valleylab™ electrosurgical pencil with stainless steel electrode offers exceptional performance in a wide range of surgical procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82204,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ laparoscopic handset",
+        "slug": "valleylab-laparoscopic-handset",
+        "url": "",
+        "imgurl": "/img/cv-e2750-0911.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ laparoscopic handset offers multiple capabilities, including suction, irrigation, cutting and coagulation, and electrode retractability.",
+        "deschead": "Valleylab™ laparoscopic handset",
+        "description": "The Valleylab™ laparoscopic handset offers multiple capabilities, including suction, irrigation, cutting and coagulation, and electrode retractability.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ laparoscopic handset",
+                "ftrvals": [
+                    "The Valleylab™ laparoscopic handset offers multiple capabilities, including suction, irrigation, cutting and coagulation, and electrode retractability."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82205,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Edge™ electrosurgical coated electrode pencil",
+        "slug": "edge-electrosurgical-pencil-with-coated-electrode",
+        "url": "",
+        "imgurl": "/img/e2350-tilt-lft.jpeg",
+        "videourl": "",
+        "shortdesc": "The Edge™ electrosurgical pencil with coated electrode provides uncompromised cut performance in a variety of procedures, no matter what type of tissue.",
+        "deschead": "Edge™ electrosurgical pencil with coated electrode",
+        "description": "The Edge™ electrosurgical pencil with coated electrode provides uncompromised cut performance in a variety of procedures, no matter what type of tissue.",
+        "features": {
+            "ftr-1": {
+                "name": "Edge™ electrosurgical pencil with coated electrode",
+                "ftrvals": [
+                    "The Edge™ electrosurgical pencil with coated electrode provides uncompromised cut performance in a variety of procedures, no matter what type of tissue."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82206,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ arthroscopic electrode pencil",
+        "slug": "valleylab-electrosurgical-pencil-with-arthroscopic-electrode",
+        "url": "",
+        "imgurl": "/img/arthroscopic-electrode-rocker-switch-pencil-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ electrosurgical pencil with arthroscopic electrode offers enhanced performance and safety features for arthroscopic procedures.",
+        "deschead": "Valleylab™ electrosurgical pencil with arthroscopic electrode",
+        "description": "The Valleylab™ electrosurgical pencil with arthroscopic electrode offers enhanced performance and safety features for arthroscopic procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ electrosurgical pencil with arthroscopic electrode",
+                "ftrvals": [
+                    "The Valleylab™ electrosurgical pencil with arthroscopic electrode offers enhanced performance and safety features for arthroscopic procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82207,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ electrosurgical rocker switch pencil",
+        "slug": "valleylab-electrosurgical-rocker-switch-pencil",
+        "url": "",
+        "imgurl": "/img/valleylab-reusable-rocker-switch-pencil-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ electrosurgical rocker switch pencil offers enhanced performance and a unique, sure-grip feel.",
+        "deschead": "Valleylab™ electrosurgical rocker switch pencil",
+        "description": "The Valleylab™ electrosurgical rocker switch pencil offers enhanced performance and a unique, sure-grip feel.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ electrosurgical rocker switch pencil",
+                "ftrvals": [
+                    "The Valleylab™ electrosurgical rocker switch pencil offers enhanced performance and a unique, sure-grip feel."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82208,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Force TriVerse™ electrosurgical device",
+        "slug": "force-triverse-electrosurgical-device",
+        "url": "",
+        "imgurl": "/img/ft3000-tilt-lft.jpeg",
+        "videourl": "",
+        "shortdesc": "The Force TriVerse™ electrosurgical device allows you to access the Valleylab™ mode for a unique combination of monopolar hemostasis and dissection.",
+        "deschead": "Force TriVerse™ electrosurgical device",
+        "description": "The Force TriVerse™ electrosurgical device allow you to access the Valleylab™ mode for a combination of monopolar hemostasis and dissection while using a lower power setting that results in less char, less thermal spread, and less arcing than a traditional coagulation mode. The Force TriVerse™ electrosurgical device, used in conjunction with Valleylab™ solid laparoscopic electrodes, provides performance and convenience for your laparoscopic procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Force TriVerse™ electrosurgical device",
+                "ftrvals": [
+                    "The Force TriVerse™ electrosurgical device allows you to access the Valleylab™ mode for a unique combination of monopolar hemostasis and dissection."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82209,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ bipolar forceps",
+        "slug": "valleylab-bipolar-forceps",
+        "url": "",
+        "imgurl": "/img/cv-e4055-ct-0911.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ bipolar forceps are designed to provide superior control, safety, and surgical efficacy at minimum output power settings.",
+        "deschead": "The surgeon's choice for quality and precision",
+        "description": "Precision crafted of the highest-grade stainless steel and titanium, these quality surgical forceps are designed to provide superior control, safety, and surgical efficacy at minimum output power settings.",
+        "features": {
+            "ftr-1": {
+                "name": "The surgeon's choice for quality and precision",
+                "ftrvals": [
+                    "The Valleylab™ bipolar forceps are designed to provide superior control, safety, and surgical efficacy at minimum output power settings."
+                ]
+            }
+        }
     }
 ]
