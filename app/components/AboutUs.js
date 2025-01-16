@@ -4,7 +4,7 @@ import { Container, Col, Row, Image, Button } from "react-bootstrap";
 const AboutUs = () => {
     return (
         <Container className="py-5">
-            <Row>
+            <Row className="align-items-center">
                 <Col md={6} sm={12} xs={12}>
                     <div className="position-relative">
                         <Image src="/img/doctors-group.png" fluid alt="A group of doctors" />

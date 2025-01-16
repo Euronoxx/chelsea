@@ -4,7 +4,7 @@ import { Container, Col, Row, Image } from "react-bootstrap";
 const Features = () => {
     return (
         <Container className="py-5 featuresec">
-            <Row>
+            <Row className="align-items-center">
                 <Col md={6} sm={12} xs={12}>
                     <h1>Explore Features</h1>
                     <p className="body22 pb-5">Discover a new standard of Chelsea Enterprises. Explore our range of medical equipment for primary care and specialty treatments to wellness programs and health.</p>
