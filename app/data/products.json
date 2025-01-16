@@ -1457,7 +1457,7 @@
         "brand": "Medtronic",
         "category": "Vessel Sealing",
         "path": "/products/medtronic/vessel-sealing",
-        "title": "LigaSure™ retractable L-hook laparoscopic sealer-divider",
+        "title": "LigaSure™ L-hook laparoscopic sealer-divider",
         "slug": "ligasure-retractable-l-hook-laparoscopic-sealer-divider",
         "url": "",
         "imgurl": "/img/mdt-lf5644-lo.jpg",
@@ -2671,7 +2671,7 @@
         "brand": "Medtronic",
         "category": "Electrosurgical Instruments",
         "path": "/products/medtronic/electrosurgical-instruments",
-        "title": "Valleylab™ bipolar forceps",
+        "title": "Valleylab™ bipolar surgical forceps",
         "slug": "valleylab-bipolar-forceps",
         "url": "",
         "imgurl": "/img/cv-e4055-ct-0911.jpeg",
@@ -2684,6 +2684,393 @@
                 "name": "The surgeon's choice for quality and precision",
                 "ftrvals": [
                     "The Valleylab™ bipolar forceps are designed to provide superior control, safety, and surgical efficacy at minimum output power settings."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82210,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ microsurgical needle electrode",
+        "slug": "Valleylab-tungsten-microsurgical-needle-electrode",
+        "url": "",
+        "imgurl": "/img/e1654b.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ tungsten microsurgical needle electrode is designed for use in a wide range of surgical procedures, including fine dissection of tissue.",
+        "deschead": "Valleylab™ tungsten microsurgical needle electrode",
+        "description": "The Valleylab™ tungsten microsurgical needle electrode offers improved cutting and coagulation performance, while minimizing thermal spread. They give surgeons the precision they need for fine dissection in a wide variety of procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ tungsten microsurgical needle electrode",
+                "ftrvals": [
+                    "The Valleylab™ tungsten microsurgical needle electrode is designed for use in a wide range of surgical procedures, including fine dissection of tissue."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82211,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ electrode extension",
+        "slug": "valleylab-electrode-extension",
+        "url": "",
+        "imgurl": "/img/e1504.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ electrode extension provides improved access to deep cavities and other hard-to-reach surgical sites.",
+        "deschead": "Valleylab™ electrode extension",
+        "description": "The Valleylab™ electrode extension provides improved access to deep cavities and other hard-to-reach surgical sites.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ electrode extension",
+                "ftrvals": [
+                    "The Valleylab™ electrode extension provides improved access to deep cavities and other hard-to-reach surgical sites."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82212,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "LLETZ electrode",
+        "slug": "lletz-electrode",
+        "url": "",
+        "imgurl": "/img/e1567.jpeg",
+        "videourl": "",
+        "shortdesc": "The LLETZ electrode is made from tungsten and offers greater control during excision procedures.",
+        "deschead": "LLETZ electrode",
+        "description": "LLETZ electrodes are made from tungsten and offer greater control and increased durability compared to stainless steel. Tungsten wire resists breakage at higher power levels, while providing better control against flexing and bending during use.",
+        "features": {
+            "ftr-1": {
+                "name": "LLETZ electrode",
+                "ftrvals": [
+                    "The LLETZ electrode is made from tungsten and offers greater control during excision procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82213,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ non-retractable laparoscopic electrode",
+        "slug": "valleylab-non-retractable-laparoscopic-electrode",
+        "url": "",
+        "imgurl": "/img/e2780-28-cmyk.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ non-retractable laparoscopic electrode has enhanced features including aspiration holes to aid in laparoscopic procedures.",
+        "deschead": "Valleylab™ non-retractable laparoscopic electrode",
+        "description": "Valleylab™ non-retractable laparoscopic electrodes have enhanced features which aid in laparoscopic procedures requiring precise dissection with decreased risk of collateral spread and increased suction demands.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ non-retractable laparoscopic electrode",
+                "ftrvals": [
+                    "The Valleylab™ non-retractable laparoscopic electrode has enhanced features including aspiration holes to aid in laparoscopic procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82214,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ retractable laparoscopic electrode",
+        "slug": "valleylab-retractable-laparoscopic-electrode",
+        "url": "",
+        "imgurl": "/img/cv-e2781r-28asp-0911.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ retractable laparoscopic electrode is used in laparoscopic procedures requiring precise dissection.",
+        "deschead": "Valleylab™ retractable laparoscopic electrode",
+        "description": "Valleylab™ retractable laparoscopic electrodes have enhanced features including aspiration holes and additional electrode tip insulation. These electrodes aid in laparoscopic procedures requiring precise dissection while helping to decrease risk of collateral spread and increased suction demands.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ retractable laparoscopic electrode",
+                "ftrvals": [
+                    "The Valleylab™ retractable laparoscopic electrode is used in laparoscopic procedures requiring precise dissection."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82215,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ stainless steel electrode",
+        "slug": "valleylab-stainless-steel-electrode",
+        "url": "",
+        "imgurl": "/img/valleylab-single-use-ball-electrode-prodmast.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ single-use stainless steel electrode is available in a wide range of configurations to meet your procedural needs.",
+        "deschead": "Valleylab™ stainless steel electrode",
+        "description": "The Valleylab™ single-use stainless steel electrode is available in blade, extended blade, needle, extended needle, and ball configurations.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ stainless steel electrode",
+                "ftrvals": [
+                    "The Valleylab™ single-use stainless steel electrode is available in a wide range of configurations to meet your procedural needs."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82216,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ arthroscopic electrode",
+        "slug": "valleylab-arthroscopic-electrode",
+        "url": "",
+        "imgurl": "/img/e1510.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ arthroscopic electrode is available in four tip configurations and sold separately or packaged with Valleylab™ electrosurgical pencils.",
+        "deschead": "Valleylab™ arthroscopic electrode",
+        "description": "The Valleylab™ arthroscopic electrode is available in four tip configurations and sold separately or packaged with Valleylab™ electrosurgical pencils.",
+        "features": {
+            "ftr-1": {
+                "name": "Valleylab™ arthroscopic electrode",
+                "ftrvals": [
+                    "The Valleylab™ arthroscopic electrode is available in four tip configurations and sold separately or packaged with Valleylab™ electrosurgical pencils."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82217,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ PolyHesive™ non-corded electrode",
+        "slug": "valleylab-polyhesive-non-corded-patient-return-electrode",
+        "url": "",
+        "imgurl": "/img/e7508-e7509-adult-non-corded-prod.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ PolyHesive™ non-corded patient return electrode provides the performance of an electrode gel without the gel mess.",
+        "deschead": "Valleylab™ PolyHesive™ non-corded patient return electrode",
+        "description": "Valleylab™ patient return electrodes are recognized worldwide for quality, safety, and innovative technology. All return electrodes are manufactured with our patented PolyHesive™ II high moisture, conductive adhesive hydrogel that provides the performance of a gel without the gel mess.",
+        "features": {
+            "ftr-1": {
+                "name": "PolyHesive™ II hydrogel benefits",
+                "ftrvals": [
+                    "Water-based hydrogel lowers skin resistance",
+                    "Elongation fills patient skin irregularities and minimizes contact voids to improve the total electrical conduction area"
+                ]
+            },
+            "ftr-2": {
+                "name": "Electrode benefits",
+                "ftrvals": [
+                    "Surface area disperses current over large area, minimizing heat buildup",
+                    "Acrylic adhesive improves pad contact quality and provides a moisture barrier to significantly reduce the potential for fluid invasion",
+                    "Adult, infant (less than 30 lbs.), and neonatal (less than 6 lbs.) sizes available"
+                ]
+            },
+            "ftr-3": {
+                "name": "REM contact quality monitoring system",
+                "ftrvals": [
+                    "The Valleylab™ REM PolyHesive™ system monitors patient impedance levels, automatically deactivating the generator if a fault at the patient return electrode is detected."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82218,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "Valleylab™ solid laparoscopic electrode",
+        "slug": "valleylab-solid-laparoscopic-electrode",
+        "url": "",
+        "imgurl": "/img/cv-e377336-45c.jpeg",
+        "videourl": "",
+        "shortdesc": "The Valleylab™ solid laparoscopic electrode offers you consistent performance and customization for your laparoscopic procedures.",
+        "deschead": "Valleylab™ solid laparoscopic electrode",
+        "description": "The Valleylab™ solid laparoscopic electrode offers you consistent performance and customization for your laparoscopic procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The Valleylab™ solid laparoscopic electrode offers you consistent performance and customization for your laparoscopic procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82219,
+        "brand": "Medtronic",
+        "category": "Electrosurgical Instruments",
+        "path": "/products/medtronic/electrosurgical-instruments",
+        "title": "CleanCoat™ laparoscopic electrode",
+        "slug": "cleancoat-laparoscopic-electrode",
+        "url": "",
+        "imgurl": "/img/cv-lapportfolio-c.jpeg",
+        "videourl": "",
+        "shortdesc": "The CleanCoat™ laparoscopic electrode features an innovative coating that optimizes performance in laparoscopic procedures.",
+        "deschead": "CleanCoat™ laparoscopic electrode",
+        "description": "The CleanCoat™ laparoscopic electrode features an innovative coating that optimizes performance in laparoscopic procedures.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "The CleanCoat™ laparoscopic electrode features an innovative coating that optimizes performance in laparoscopic procedures."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82220,
+        "brand": "FP Healthcare",
+        "category": "Humidification",
+        "path": "/products/fp-healthcare/humidification",
+        "title": "Optiflow™ high flow therapy device",
+        "slug": "airvo-2-system",
+        "url": "",
+        "imgurl": "/img/fp-airvo-2-setup-illsutration.svg",
+        "videourl": "",
+        "shortdesc": "Nasal high flow therapy (NHF) is recommended in several clinical applications among recently published clinical practice guidelines.",
+        "deschead": "Designed to treat patients across the hospital",
+        "description": "A wide flow range (2 - 60 L/min), variety of innovative interfaces and an integrated flow generator facilitate the treatment of a broad patient group across hospital areas staffed by many types of clinicians.",
+        "features": {
+            "ftr-1": {
+                "name": "FP Airvo 2 Features",
+                "ftrvals": [
+                    "Airvo 2 nasal high flow system.",
+                    "AirSpiral™ heated breathing tube & chamber kit. Airspiral kit with neb option.",
+                    "Optiflow interfaces for adult and peadiatric applications, including cannula, tracheostomy and mask adapter options.",
+                    "Hospital stand."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82221,
+        "brand": "FP Healthcare",
+        "category": "Humidification",
+        "path": "/products/fp-healthcare/humidification",
+        "title": "RT332 Condensate control kit",
+        "slug": "rt332-kit",
+        "url": "",
+        "imgurl": "/img/rt302-components.png",
+        "videourl": "",
+        "shortdesc": "An all-inclusive solution for delivering Nasal High Flow therapy with optimal performance",
+        "deschead": "RT332, a kit designed for optimal performance",
+        "description": "The MR850 uses temperature sensors to adjust the MicroCell™ circuit while also accounting for the geometry of our OptiflowTM cannula. At the same time MicroCell and Evaqua™ technologies work in concert to further control condensate, every step of the way.",
+        "features": {
+            "ftr-1": {
+                "name": "RT332 Features",
+                "ftrvals": [
+                    "The RT332 Kit contains a Heated Inspiratory Adult Breathing Circuit made of a non-permeable material with Fisher & Paykel's unique MicroCell Technology.",
+                    "The MicroCell wall structure forms an insulation shield between the cool air outside and the water vapor inside, locking in humidity and reducing condensation.",
+                    "With it's unique concave base, together with soft contoured prongs and cheek pads, and a customizable headstrap, the Optiflow+ Nasal Cannula provides patient comfort and stability on the face."
+                ]
+            }
+        }
+    },
+    {
+        "id": 82222,
+        "brand": "FP Healthcare",
+        "category": "Humidification",
+        "path": "/products/fp-healthcare/humidification",
+        "title": "MR850™ humidifier to deliver Optiflow™",
+        "slug": "850-system-for-optiflow",
+        "url": "",
+        "imgurl": "/img/mr850-optiflow-vent-diagram-lg500.png",
+        "videourl": "",
+        "shortdesc": "An MR850 can be used as part of a vent-driven Optiflow system to deliver Optiflow high flow therapy.",
+        "deschead": "One device supports multiple therapies for adult, pediatric and neonatal patients",
+        "description": "Automatic algorithms designed to reduce mobile circuit condensate",
+        "features": {
+            "ftr-1": {
+                "name": "MR850™ Features",
+                "ftrvals": [
+                    "Proven to consistently perform",
+                    "Designed to withstand daily hospital use",
+                    "Automatic standby during periods of gas flow interruption"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82223,
+        "brand": "FP Healthcare",
+        "category": "Humidification",
+        "path": "/products/fp-healthcare/humidification",
+        "title": "FP Evaqua 2 Breathing Circuits",
+        "slug": "f-p-850-breathing-circuit-kits",
+        "url": "",
+        "imgurl": "/img/mr850-evaqua-2-rt280-breathing-circuit-md-4x3.png",
+        "videourl": "",
+        "shortdesc": "We've designed F&P™ 850 breathing circuits to minimize condensation and maintain humidity delivery between the MR850 Humidifier and the patient interface.",
+        "deschead": "Evaqua 2 Breathing Circuits",
+        "description": "Evaqua technology allows water vapor to diffuse out through the expiratory limb wall before it has an opportunity to condense into liquid water within the circuit limb or the ventilator. MicroCell™ technology in the inspiratory limb helps protect humidity from condensing. The result is an easy-to-use circuit that promotes a closed system and can reduce clinician intervention.",
+        "features": {
+            "ftr-1": {
+                "name": "Evaqua 2 Breathing Circuits",
+                "ftrvals": [
+                    "Minimizes inspiratory and expiratory condensation",
+                    "Promotes a closed system",
+                    "Minimizes condensate-related ventilator alarms",
+                    "Reduces filter wetting",
+                    "Decreases circuit maintenance time"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82224,
+        "brand": "FP Healthcare",
+        "category": "Breathing Circuits",
+        "path": "/products/fp-healthcare/breathing-circuits",
+        "title": "Optiflow™ Junior Breathing Circuit",
+        "slug": "optiflow-junior-breathing-circuit",
+        "url": "",
+        "imgurl": "/img/rt330circuit-ojr215-nhf-355x270.png",
+        "videourl": "",
+        "shortdesc": "We've designed F&P™ 850 breathing circuits to minimize condensation and maintain humidity delivery between the MR850 Humidifier and the patient interface.",
+        "deschead": "Optiflow™ Junior Breathing Circuit",
+        "description": "Evaqua technology allows water vapor to diffuse out through the expiratory limb wall before it has an opportunity to condense into liquid water within the circuit limb or the ventilator. MicroCell™ technology in the inspiratory limb helps protect humidity from condensing. The result is an easy-to-use circuit that promotes a closed system and can reduce clinician intervention.",
+        "features": {
+            "ftr-1": {
+                "name": "Main Features",
+                "ftrvals": [
+                    "Extended length of tubing (5'9/1.75m)",
+                    "Includes MR290 auto-fill humidification chamber",
+                    "For use with F&P MR850 humidifier",
+                    "Available in selected markets only"
+                ]
+            }
+        }
+    },
+    {
+        "id": 82225,
+        "brand": "FP Healthcare",
+        "category": "Breathing Circuits",
+        "path": "/products/fp-healthcare/breathing-circuits",
+        "title": "FP Bubble CPAP Generator System",
+        "slug": "bubble-cpap-system",
+        "url": "",
+        "imgurl": "/img/bubble-delivered-cpap-3865-lg4x3.jpg",
+        "videourl": "",
+        "shortdesc": "Designed to provide consistent pressure through an auto-leveling feature.",
+        "deschead": "FP Bubble CPAP System",
+        "description": "Continuous positive airway pressure (CPAP) therapy delivers a heated and humidified blend of air and oxygen while at the same time generating a continuous distending pressure throughout the respiratory cycle. The Fisher & Paykel Healthcare Bubble CPAP System includes circuits, a pressure-relief manifold and Bubble CPAP generator.",
+        "features": {
+            "ftr-1": {
+                "name": "Auto-leveling",
+                "ftrvals": [
+                    "The F&P Bubble CPAP generator is designed to provide consistent pressure through an auto-leveling feature. This design moves excess liquid into a separate chamber from the main pressure-generating section, automatically ensuring that the set pressure does not change with liquid buildup."
+                ]
+            },
+            "ftr-2": {
+                "name": "Detachable overflow container",
+                "ftrvals": [
+                    "The Bubble CPAP generator includes an overflow container that can be detached to remove excess water from the system without disrupting therapy delivery."
                 ]
             }
         }

@@ -9,7 +9,7 @@ const SingleProduct = ({paramUrl}) => {
                 <div key={product.id}>
                 <Row className="align-items-center">
                     <Col md={6} sm={12} xs={12} className="text-center">
-                        <Image src={`${product.imgurl}`} fluid alt={`${product.title}`} />
+                        <Image src={`${product.imgurl}`} fluid alt={`${product.title}`} style={{maxHeight:'500px'}} />
                     </Col>
                     <Col md={6} sm={12} xs={12}>
                         <h1 className="txtblue">{product.title}</h1>
